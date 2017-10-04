@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/the-6th-taikai/</loc>
+    <lastmod>2017-10-05T01:40:15+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/post/seito-20th-headmaster-and-seito-21st-headmaster/</loc>
     <lastmod>2017-09-30T23:16:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -89,6 +96,13 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/tags/iaido/</loc>
+    <lastmod>2017-10-05T01:40:15+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/categories/kono-hyakuren/</loc>
     <lastmod>2017-09-29T00:21:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -97,7 +111,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2017-09-30T23:16:07+09:00</lastmod>
+    <lastmod>2017-10-05T01:40:15+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -110,6 +124,13 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/tags/mjer/</loc>
+    <lastmod>2017-10-05T01:40:15+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -131,7 +152,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2017-09-30T23:16:07+09:00</lastmod>
+    <lastmod>2017-10-05T01:40:15+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -144,6 +165,13 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/categories/taikai/</loc>
+    <lastmod>2017-10-05T01:40:15+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
   </url>
   
 </urlset>
