@@ -6,15 +6,24 @@
     <description>Recent content in Tags on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2017 00:09:17 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 22:15:16 +0900</lastBuildDate>
     
 	<atom:link href="https://mjer-iaido.github.io/ja/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Iaido</title>
+      <link>https://mjer-iaido.github.io/ja/tags/iaido/</link>
+      <pubDate>Wed, 11 Oct 2017 22:15:16 +0900</pubDate>
+      
+      <guid>https://mjer-iaido.github.io/ja/tags/iaido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mjer</title>
       <link>https://mjer-iaido.github.io/ja/tags/mjer/</link>
-      <pubDate>Tue, 10 Oct 2017 00:09:17 +0900</pubDate>
+      <pubDate>Wed, 11 Oct 2017 22:15:16 +0900</pubDate>
       
       <guid>https://mjer-iaido.github.io/ja/tags/mjer/</guid>
       <description></description>

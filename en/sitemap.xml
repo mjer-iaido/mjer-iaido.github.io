@@ -107,6 +107,16 @@
     <lastmod>2017-10-05T01:40:15+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/tags/iaido/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/tags/iaido/"
+                />
   </url>
   
   <url>
@@ -206,6 +216,16 @@
     <lastmod>2017-10-05T01:40:15+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/categories/taikai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/categories/taikai/"
+                />
   </url>
   
 </urlset>

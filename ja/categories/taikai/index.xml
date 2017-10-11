@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mjer on World MJER Iaido Federation</title>
-    <link>https://mjer-iaido.github.io/ja/tags/mjer/</link>
-    <description>Recent content in Mjer on World MJER Iaido Federation</description>
+    <title>Taikai on World MJER Iaido Federation</title>
+    <link>https://mjer-iaido.github.io/ja/categories/taikai/</link>
+    <description>Recent content in Taikai on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Oct 2017 22:15:16 +0900</lastBuildDate>
     
-	<atom:link href="https://mjer-iaido.github.io/ja/tags/mjer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mjer-iaido.github.io/ja/categories/taikai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://mjer-iaido.github.io/ja/post/%E7%AC%AC%E5%85%AD%E5%9B%9E-%E5%9B%BD%E9%9A%9B%E9%80%A3%E7%9B%9F%E5%A4%A7%E4%BC%9A/</guid>
       <description>ご案内 各位 下記日程にて、第六回 国際連盟大会を開催します。 国内及び国外の会員諸剣士におかれましては、日頃の修練の結果を充分に発揮し披露していた</description>
-    </item>
-    
-    <item>
-      <title>旭川セミナー 2017年10月度</title>
-      <link>https://mjer-iaido.github.io/ja/post/%E6%97%AD%E5%B7%9D%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-2017%E5%B9%B410%E6%9C%88%E5%BA%A6/</link>
-      <pubDate>Tue, 10 Oct 2017 00:09:17 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/ja/post/%E6%97%AD%E5%B7%9D%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-2017%E5%B9%B410%E6%9C%88%E5%BA%A6/</guid>
-      <description>2017年10月7日〜8日にかけて、旭川にて国際連盟セミナーが開催されました。 稽古風景 表彰式</description>
     </item>
     
   </channel>
