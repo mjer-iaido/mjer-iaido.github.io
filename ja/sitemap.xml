@@ -124,6 +124,22 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/ja/gallery/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/gallery/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/ja/tags/iaido/</loc>
     <lastmod>2017-10-11T22:15:16+09:00</lastmod>
     <changefreq>monthly</changefreq>

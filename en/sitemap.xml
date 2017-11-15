@@ -103,6 +103,22 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/gallery/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/gallery/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/categories/head-master/</loc>
     <lastmod>2017-09-30T23:16:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
