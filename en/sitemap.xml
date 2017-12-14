@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/the-6th-taikai-finished/</loc>
+    <lastmod>2017-12-15T00:19:23+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/post/seminar-in-germany/</loc>
     <lastmod>2017-10-17T23:09:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -127,7 +134,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/iaido/</loc>
-    <lastmod>2017-10-05T01:40:15+09:00</lastmod>
+    <lastmod>2017-12-15T00:19:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -151,7 +158,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2017-10-17T23:09:07+09:00</lastmod>
+    <lastmod>2017-12-15T00:19:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -168,7 +175,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/mjer/</loc>
-    <lastmod>2017-10-17T23:09:07+09:00</lastmod>
+    <lastmod>2017-12-15T00:19:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -219,7 +226,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2017-10-05T01:40:15+09:00</lastmod>
+    <lastmod>2017-12-15T00:19:23+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
