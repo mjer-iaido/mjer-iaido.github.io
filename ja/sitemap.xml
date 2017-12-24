@@ -131,6 +131,22 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/ja/dojos/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/dojos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/dojos/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/ja/gallery/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
