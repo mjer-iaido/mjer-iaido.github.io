@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/an-introduction-to-mjer-iaido-02/</loc>
+    <lastmod>2018-01-13T01:39:46+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/post/an-introduction-to-mjer-iaido-01/</loc>
     <lastmod>2018-01-12T01:46:59+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -164,7 +171,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/iaido/</loc>
-    <lastmod>2018-01-12T01:46:59+09:00</lastmod>
+    <lastmod>2018-01-13T01:39:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -188,7 +195,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2018-01-12T01:46:59+09:00</lastmod>
+    <lastmod>2018-01-13T01:39:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -205,7 +212,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/mjer/</loc>
-    <lastmod>2018-01-12T01:46:59+09:00</lastmod>
+    <lastmod>2018-01-13T01:39:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
@@ -256,7 +263,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2018-01-12T01:46:59+09:00</lastmod>
+    <lastmod>2018-01-13T01:39:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
     <xhtml:link
