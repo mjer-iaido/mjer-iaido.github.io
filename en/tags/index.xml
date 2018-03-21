@@ -6,10 +6,19 @@
     <description>Recent content in Tags on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Feb 2018 19:32:05 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Mar 2018 16:54:22 +0900</lastBuildDate>
     
 	<atom:link href="https://mjer-iaido.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Boston</title>
+      <link>https://mjer-iaido.github.io/en/tags/boston/</link>
+      <pubDate>Wed, 21 Mar 2018 16:54:22 +0900</pubDate>
+      
+      <guid>https://mjer-iaido.github.io/en/tags/boston/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Iaido</title>
@@ -23,7 +32,7 @@
     <item>
       <title>Mjer</title>
       <link>https://mjer-iaido.github.io/en/tags/mjer/</link>
-      <pubDate>Sun, 25 Feb 2018 19:32:05 +0900</pubDate>
+      <pubDate>Wed, 21 Mar 2018 16:54:22 +0900</pubDate>
       
       <guid>https://mjer-iaido.github.io/en/tags/mjer/</guid>
       <description></description>
@@ -44,6 +53,15 @@
       <pubDate>Tue, 17 Oct 2017 23:09:07 +0900</pubDate>
       
       <guid>https://mjer-iaido.github.io/en/tags/seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar2018</title>
+      <link>https://mjer-iaido.github.io/en/tags/seminar2018/</link>
+      <pubDate>Wed, 21 Mar 2018 16:54:22 +0900</pubDate>
+      
+      <guid>https://mjer-iaido.github.io/en/tags/seminar2018/</guid>
       <description></description>
     </item>
     
