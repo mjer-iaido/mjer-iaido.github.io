@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/%E5%B1%85%E5%90%88%E5%88%9D%E5%BF%83%E8%80%85%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2018-04-03T22:55:41+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/ja/post/2018%E5%B9%B4-%E5%9B%BD%E9%9A%9B%E9%80%A3%E7%9B%9F%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A/</loc>
     <lastmod>2018-03-29T23:21:49+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -208,7 +215,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2018-03-29T23:21:49+09:00</lastmod>
+    <lastmod>2018-04-03T22:55:41+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -299,13 +306,6 @@
   </url>
   
   <url>
-    <loc>https://mjer-iaido.github.io/ja/tags/taikai/</loc>
-    <lastmod>2017-10-31T20:48:55+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mjer-iaido.github.io/ja/categories/taikai/</loc>
     <lastmod>2017-10-11T22:15:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -320,6 +320,13 @@
                 hreflang="ja"
                 href="https://mjer-iaido.github.io/ja/categories/taikai/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/ja/tags/taikai/</loc>
+    <lastmod>2017-10-31T20:48:55+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -369,8 +376,15 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/ja/tags/%E5%88%9D%E5%BF%83%E8%80%85/</loc>
+    <lastmod>2018-04-03T22:55:41+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/ja/tags/%E5%B1%85%E5%90%88%E9%81%93/</loc>
-    <lastmod>2018-03-29T23:21:49+09:00</lastmod>
+    <lastmod>2018-04-03T22:55:41+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
