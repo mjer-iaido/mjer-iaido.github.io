@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/%E5%B1%85%E5%90%88%E5%88%9D%E5%BF%83%E8%80%85%E5%BF%83%E5%BE%97%E3%83%BC%EF%BC%92/</loc>
+    <lastmod>2018-04-09T23:43:59+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/ja/post/%E5%B1%85%E5%90%88%E5%88%9D%E5%BF%83%E8%80%85%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2018-04-03T22:55:41+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -215,7 +222,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2018-04-03T22:55:41+09:00</lastmod>
+    <lastmod>2018-04-09T23:43:59+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -306,6 +313,13 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/ja/tags/taikai/</loc>
+    <lastmod>2017-10-31T20:48:55+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/ja/categories/taikai/</loc>
     <lastmod>2017-10-11T22:15:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -320,13 +334,6 @@
                 hreflang="ja"
                 href="https://mjer-iaido.github.io/ja/categories/taikai/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://mjer-iaido.github.io/ja/tags/taikai/</loc>
-    <lastmod>2017-10-31T20:48:55+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -384,7 +391,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/ja/tags/%E5%B1%85%E5%90%88%E9%81%93/</loc>
-    <lastmod>2018-04-03T22:55:41+09:00</lastmod>
+    <lastmod>2018-04-09T23:43:59+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -398,7 +405,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/ja/tags/%E6%B2%B3%E9%87%8E%E7%99%BE%E9%8C%AC/</loc>
-    <lastmod>2018-03-23T00:05:19+09:00</lastmod>
+    <lastmod>2018-04-09T23:43:59+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
