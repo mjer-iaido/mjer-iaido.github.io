@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/kamata-early-summer-seminar2018/</loc>
+    <lastmod>2018-07-02T00:55:08+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/post/boston-seminar2018/</loc>
     <lastmod>2018-06-16T15:16:28+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -236,6 +243,13 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/tags/kamata/</loc>
+    <lastmod>2018-07-02T00:55:08+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/categories/kono-hyakuren/</loc>
     <lastmod>2017-09-29T00:21:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -244,7 +258,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2018-06-16T15:16:28+09:00</lastmod>
+    <lastmod>2018-07-02T00:55:08+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -312,7 +326,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/seminar2018/</loc>
-    <lastmod>2018-03-21T16:54:22+09:00</lastmod>
+    <lastmod>2018-07-02T00:55:08+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
