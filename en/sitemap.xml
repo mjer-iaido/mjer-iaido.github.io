@@ -243,20 +243,6 @@
   </url>
   
   <url>
-    <loc>https://mjer-iaido.github.io/en/tags/kamata/</loc>
-    <lastmod>2018-07-02T00:55:08+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mjer-iaido.github.io/en/categories/kono-hyakuren/</loc>
-    <lastmod>2017-09-29T00:21:33+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
     <lastmod>2018-07-02T00:55:08+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -271,6 +257,20 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/tags/kamata/</loc>
+    <lastmod>2018-07-02T00:55:08+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/categories/kono-hyakuren/</loc>
+    <lastmod>2017-09-29T00:21:33+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
   </url>
   
   <url>

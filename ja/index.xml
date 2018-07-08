@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MJER Iaido on World MJER Iaido Federation</title>
+    <title>Iaido - 居合道 on World MJER Iaido Federation</title>
     <link>https://mjer-iaido.github.io/ja/</link>
-    <description>Recent content in MJER Iaido on World MJER Iaido Federation</description>
+    <description>Recent content in Iaido - 居合道 on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jul 2018 23:37:23 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jul 2018 22:46:38 +0900</lastBuildDate>
     
 	<atom:link href="https://mjer-iaido.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>平常心って？</title>
+      <link>https://mjer-iaido.github.io/ja/post/%E5%B9%B3%E5%B8%B8%E5%BF%83%E3%81%A3%E3%81%A6/</link>
+      <pubDate>Sun, 08 Jul 2018 22:46:38 +0900</pubDate>
+      
+      <guid>https://mjer-iaido.github.io/ja/post/%E5%B9%B3%E5%B8%B8%E5%BF%83%E3%81%A3%E3%81%A6/</guid>
+      <description>こんにちは。 今日はお約束通り「平常心」と云う事について考えてみようと思います。 ブログを書くにあたって、平常心を国語辞書で引いてみると、驚いた</description>
+    </item>
     
     <item>
       <title>2018年6月 蒲田セミナー</title>
