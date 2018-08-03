@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/kamikawa-shrine-enbu-at-asahikawa/</loc>
+    <lastmod>2018-08-04T01:28:07+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/post/german-semnar2018/</loc>
     <lastmod>2018-07-15T23:51:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -240,6 +247,13 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/tags/hokkaido/</loc>
+    <lastmod>2018-08-04T01:28:07+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/tags/iaido/</loc>
     <lastmod>2018-06-16T15:16:28+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -258,7 +272,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2018-07-15T23:51:55+09:00</lastmod>
+    <lastmod>2018-08-04T01:28:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -340,7 +354,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/seminar2018/</loc>
-    <lastmod>2018-07-15T23:51:55+09:00</lastmod>
+    <lastmod>2018-08-04T01:28:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
