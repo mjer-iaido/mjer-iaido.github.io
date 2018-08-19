@@ -258,16 +258,6 @@
     <lastmod>2018-06-16T15:16:28+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/tags/iaido/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/tags/iaido/"
-                />
   </url>
   
   <url>
@@ -306,16 +296,6 @@
     <lastmod>2018-06-16T15:16:28+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/tags/mjer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/tags/mjer/"
-                />
   </url>
   
   <url>
@@ -323,16 +303,6 @@
     <lastmod>2017-09-30T23:16:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/tags/mjer-iaido/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/tags/mjer-iaido/"
-                />
   </url>
   
   <url>
@@ -340,16 +310,6 @@
     <lastmod>2018-06-16T15:16:28+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/tags/seminar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/tags/seminar/"
-                />
   </url>
   
   <url>
@@ -381,16 +341,6 @@
     <lastmod>2017-10-05T01:40:15+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/categories/taikai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/categories/taikai/"
-                />
   </url>
   
 </urlset>

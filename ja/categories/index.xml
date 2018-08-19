@@ -10,32 +10,5 @@
 	<atom:link href="https://mjer-iaido.github.io/ja/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Seminar2017</title>
-      <link>https://mjer-iaido.github.io/ja/categories/seminar2017/</link>
-      <pubDate>Sun, 01 Oct 2017 02:25:18 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/ja/categories/seminar2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Taikai</title>
-      <link>https://mjer-iaido.github.io/ja/categories/taikai/</link>
-      <pubDate>Wed, 11 Oct 2017 22:15:16 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/ja/categories/taikai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>居合道真諦</title>
-      <link>https://mjer-iaido.github.io/ja/categories/%E5%B1%85%E5%90%88%E9%81%93%E7%9C%9F%E8%AB%A6/</link>
-      <pubDate>Fri, 29 Sep 2017 22:30:59 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/ja/categories/%E5%B1%85%E5%90%88%E9%81%93%E7%9C%9F%E8%AB%A6/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
