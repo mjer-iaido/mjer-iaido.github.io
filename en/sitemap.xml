@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/hokkaido-autumn-seminar2018/</loc>
+    <lastmod>2018-10-21T22:50:24+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/post/singapore-seminar2018/</loc>
     <lastmod>2018-09-16T19:20:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -269,7 +276,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2018-09-16T19:20:55+09:00</lastmod>
+    <lastmod>2018-10-21T22:50:24+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -282,6 +289,13 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/tags/iaido-seminar2018/</loc>
+    <lastmod>2018-10-21T22:50:24+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
   </url>
   
   <url>
