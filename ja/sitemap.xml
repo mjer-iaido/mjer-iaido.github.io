@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/%E5%9C%8B%E9%9A%9B%E9%80%A3%E7%9B%9F%E8%A8%AD%E7%AB%8B%EF%BC%91%EF%BC%90%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5-%E7%AC%AC%E5%85%AB%E5%9B%9E%E5%A4%A7%E4%BC%9A/</loc>
+    <lastmod>2019-04-07T02:29:42+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/ja/post/%E5%BD%93%E6%B5%81%E3%81%AE%E6%A5%AD%E3%81%AE%E6%8E%9F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E3%81%9D%E3%81%AE%E4%BA%8C/</loc>
     <lastmod>2019-03-01T00:05:20+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -429,19 +436,9 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/ja/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/</loc>
-    <lastmod>2019-02-24T22:36:48+09:00</lastmod>
+    <lastmod>2019-04-07T02:29:42+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/"
-                />
   </url>
   
   <url>
@@ -469,7 +466,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2019-03-01T00:05:20+09:00</lastmod>
+    <lastmod>2019-04-07T02:29:42+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
