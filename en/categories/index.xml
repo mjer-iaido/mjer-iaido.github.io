@@ -6,12 +6,22 @@
     <description>Recent content in Categories on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 05 Oct 2017 01:40:15 +0900</lastBuildDate>
     
 	<atom:link href="https://mjer-iaido.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Head Master</title>
+      <title>Taikai</title>
+      <link>https://mjer-iaido.github.io/en/categories/taikai/</link>
+      <pubDate>Thu, 05 Oct 2017 01:40:15 +0900</pubDate>
+      
+      <guid>https://mjer-iaido.github.io/en/categories/taikai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Head master</title>
       <link>https://mjer-iaido.github.io/en/categories/head-master/</link>
       <pubDate>Sat, 30 Sep 2017 23:16:07 +0900</pubDate>
       
@@ -25,15 +35,6 @@
       <pubDate>Fri, 29 Sep 2017 00:21:33 +0900</pubDate>
       
       <guid>https://mjer-iaido.github.io/en/categories/kono-hyakuren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Taikai</title>
-      <link>https://mjer-iaido.github.io/en/categories/taikai/</link>
-      <pubDate>Thu, 05 Oct 2017 01:40:15 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/categories/taikai/</guid>
       <description></description>
     </item>
     
