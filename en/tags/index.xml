@@ -1,49 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on World MJER Iaido Federation</title>
+    <title>World MJER Iaido Federation</title>
     <link>https://mjer-iaido.github.io/en/tags/</link>
-    <description>Recent content in Tags on World MJER Iaido Federation</description>
+    <description>Recent content on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2019 15:03:22 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 16:00:52 +0900</lastBuildDate>
     
 	<atom:link href="https://mjer-iaido.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://mjer-iaido.github.io/en/tags/</link>
-      <pubDate>Sat, 15 Jun 2019 15:03:22 +0900</pubDate>
+      <title>Happy New Year2019</title>
+      <link>https://mjer-iaido.github.io/en/post/happy-new-year2019/</link>
+      <pubDate>Sun, 30 Dec 2018 19:57:22 +0900</pubDate>
       
-      <guid>https://mjer-iaido.github.io/en/tags/</guid>
-      <description></description>
+      <guid>https://mjer-iaido.github.io/en/post/happy-new-year2019/</guid>
+      <description>謹 賀 新 年 Happy New Year!! 新年明けましておめでとうございます。 國際連盟もお陰様で第１０期目を迎えました。 会員諸剣士のご協力の賜物と役員一同感謝し、御礼申</description>
     </item>
     
     <item>
-      <title>seminar</title>
-      <link>https://mjer-iaido.github.io/en/tags/seminar/</link>
-      <pubDate>Sat, 15 Jun 2019 15:03:22 +0900</pubDate>
+      <title>Happy New Year2019</title>
+      <link>https://mjer-iaido.github.io/en/post/happy-new-year2019/</link>
+      <pubDate>Sun, 30 Dec 2018 19:57:22 +0900</pubDate>
       
-      <guid>https://mjer-iaido.github.io/en/tags/seminar/</guid>
-      <description></description>
+      <guid>https://mjer-iaido.github.io/en/post/happy-new-year2019/</guid>
+      <description>謹 賀 新 年 Happy New Year!! 新年明けましておめでとうございます。 國際連盟もお陰様で第１０期目を迎えました。 会員諸剣士のご協力の賜物と役員一同感謝し、御礼申</description>
     </item>
     
-    <item>
-      <title>seminar2019</title>
-      <link>https://mjer-iaido.github.io/en/tags/seminar2019/</link>
-      <pubDate>Sun, 07 Apr 2019 02:57:31 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/seminar2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>seminar2018</title>
-      <link>https://mjer-iaido.github.io/en/tags/seminar2018/</link>
-      <pubDate>Sun, 23 Dec 2018 16:15:47 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/seminar2018/</guid>
+  </channel>
+</rss>d>
       <description></description>
     </item>
     
