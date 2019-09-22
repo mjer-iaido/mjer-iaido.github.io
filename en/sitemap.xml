@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2019-09-01T17:16:24+09:00</lastmod>
+    <lastmod>2019-09-20T20:57:35+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -20,7 +20,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2019-09-01T17:16:24+09:00</lastmod>
+    <lastmod>2019-09-20T20:57:35+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -36,15 +36,21 @@
   </url>
   
   <url>
-    <loc>https://mjer-iaido.github.io/en/post/singapore-seminar2019/</loc>
-    <lastmod>2019-09-01T17:16:24+09:00</lastmod>
+    <loc>https://mjer-iaido.github.io/en/post/keiko-before-the-8th-taikai/</loc>
+    <lastmod>2019-09-20T20:57:35+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/tags/seminar2019/</loc>
+    <lastmod>2019-09-20T20:57:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2019-09-01T17:16:24+09:00</lastmod>
+    <lastmod>2019-09-20T20:57:35+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -56,6 +62,13 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/post/singapore-seminar2019/</loc>
+    <lastmod>2019-09-01T17:16:24+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -90,12 +103,6 @@
     <lastmod>2019-06-30T16:00:52+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mjer-iaido.github.io/en/tags/seminar2019/</loc>
-    <lastmod>2019-06-30T16:00:52+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

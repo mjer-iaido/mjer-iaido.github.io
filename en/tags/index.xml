@@ -1,140 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on World MJER Iaido Federation</title>
+    <title>World MJER Iaido Federation</title>
     <link>https://mjer-iaido.github.io/en/tags/</link>
-    <description>Recent content in Tags on World MJER Iaido Federation</description>
+    <description>Recent content on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Sep 2019 17:16:24 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2019 20:57:35 +0900</lastBuildDate>
     
 	<atom:link href="https://mjer-iaido.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://mjer-iaido.github.io/en/tags/</link>
-      <pubDate>Sun, 01 Sep 2019 17:16:24 +0900</pubDate>
+      <title>Ken Shin Dojo</title>
+      <link>https://mjer-iaido.github.io/en/post/ken-shin-dojo/</link>
+      <pubDate>Sun, 18 Aug 2019 16:18:45 +0900</pubDate>
       
-      <guid>https://mjer-iaido.github.io/en/tags/</guid>
-      <description></description>
+      <guid>https://mjer-iaido.github.io/en/post/ken-shin-dojo/</guid>
+      <description>Dear members, Introducing our new member dojo. 剣心道場 -Ken Shin Dojo- address : 5851 west boulevard, Kerrisdale Community Center Vancouver, BC Sensei : BAHMAN EBRAHIMI website : http://kenshindojo.ca/ The list of offical dojos is here. World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟</description>
     </item>
     
     <item>
-      <title>seminar</title>
-      <link>https://mjer-iaido.github.io/en/tags/seminar/</link>
-      <pubDate>Sun, 01 Sep 2019 17:16:24 +0900</pubDate>
+      <title>Happy New Year2019</title>
+      <link>https://mjer-iaido.github.io/en/post/happy-new-year2019/</link>
+      <pubDate>Sun, 30 Dec 2018 19:57:22 +0900</pubDate>
       
-      <guid>https://mjer-iaido.github.io/en/tags/seminar/</guid>
-      <description></description>
+      <guid>https://mjer-iaido.github.io/en/post/happy-new-year2019/</guid>
+      <description>謹 賀 新 年 Happy New Year!! 新年明けましておめでとうございます。 國際連盟もお陰様で第１０期目を迎えました。 会員諸剣士のご協力の賜物と役員一同感謝し、御礼申</description>
     </item>
     
     <item>
-      <title>Seminar2019</title>
-      <link>https://mjer-iaido.github.io/en/tags/seminar2019/</link>
-      <pubDate>Sun, 30 Jun 2019 16:00:52 +0900</pubDate>
+      <title>Happy New Year2019</title>
+      <link>https://mjer-iaido.github.io/en/post/happy-new-year2019/</link>
+      <pubDate>Sun, 30 Dec 2018 19:57:22 +0900</pubDate>
       
-      <guid>https://mjer-iaido.github.io/en/tags/seminar2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>seminar2018</title>
-      <link>https://mjer-iaido.github.io/en/tags/seminar2018/</link>
-      <pubDate>Sun, 23 Dec 2018 16:15:47 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/seminar2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iaido seminar2018</title>
-      <link>https://mjer-iaido.github.io/en/tags/iaido-seminar2018/</link>
-      <pubDate>Sun, 21 Oct 2018 22:50:24 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/iaido-seminar2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Singapore</title>
-      <link>https://mjer-iaido.github.io/en/tags/singapore/</link>
-      <pubDate>Sun, 16 Sep 2018 19:20:55 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/singapore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hokkaido</title>
-      <link>https://mjer-iaido.github.io/en/tags/hokkaido/</link>
-      <pubDate>Sat, 04 Aug 2018 01:28:07 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/hokkaido/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>German</title>
-      <link>https://mjer-iaido.github.io/en/tags/german/</link>
-      <pubDate>Sun, 15 Jul 2018 23:51:55 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/german/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kamata</title>
-      <link>https://mjer-iaido.github.io/en/tags/kamata/</link>
-      <pubDate>Mon, 02 Jul 2018 00:55:08 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/kamata/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iaido</title>
-      <link>https://mjer-iaido.github.io/en/tags/iaido/</link>
-      <pubDate>Sat, 16 Jun 2018 15:16:28 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/iaido/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mjer</title>
-      <link>https://mjer-iaido.github.io/en/tags/mjer/</link>
-      <pubDate>Sat, 16 Jun 2018 15:16:28 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/mjer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>boston</title>
-      <link>https://mjer-iaido.github.io/en/tags/boston/</link>
-      <pubDate>Wed, 21 Mar 2018 16:54:22 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/boston/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>seminar2017</title>
-      <link>https://mjer-iaido.github.io/en/tags/seminar2017/</link>
-      <pubDate>Fri, 15 Dec 2017 00:19:23 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/seminar2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mjer iaido</title>
-      <link>https://mjer-iaido.github.io/en/tags/mjer-iaido/</link>
-      <pubDate>Sat, 30 Sep 2017 23:16:07 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/mjer-iaido/</guid>
-      <description></description>
+      <guid>https://mjer-iaido.github.io/en/post/happy-new-year2019/</guid>
+      <description>謹 賀 新 年 Happy New Year!! 新年明けましておめでとうございます。 國際連盟もお陰様で第１０期目を迎えました。 会員諸剣士のご協力の賜物と役員一同感謝し、御礼申</description>
     </item>
     
   </channel>
