@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2019-12-08T22:46:52+09:00</lastmod>
+    <lastmod>2019-12-31T03:16:24+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -19,8 +19,15 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/a-happy-new-year2020/</loc>
+    <lastmod>2019-12-31T03:16:24+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2019-12-08T22:46:52+09:00</lastmod>
+    <lastmod>2019-12-31T03:16:24+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -37,7 +44,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2019-12-08T22:46:52+09:00</lastmod>
+    <lastmod>2019-12-31T03:16:24+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
