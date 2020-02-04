@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2020-01-27T22:07:49+09:00</lastmod>
+    <lastmod>2020-02-05T00:00:44+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -19,8 +19,15 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/20th-head-of-the-mjer-school-of-iaido/</loc>
+    <lastmod>2020-02-05T00:00:44+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2020-01-27T22:07:49+09:00</lastmod>
+    <lastmod>2020-02-05T00:00:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -37,7 +44,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2020-01-27T22:07:49+09:00</lastmod>
+    <lastmod>2020-02-05T00:00:44+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -49,6 +56,12 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/tags/mjer-iaido/</loc>
+    <lastmod>2020-02-05T00:00:44+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -400,12 +413,6 @@
     <lastmod>2017-09-30T23:16:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mjer-iaido.github.io/en/tags/mjer-iaido/</loc>
-    <lastmod>2017-09-30T23:16:07+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
