@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/ja/tags/</loc>
-    <lastmod>2020-01-27T22:07:07+09:00</lastmod>
+    <lastmod>2020-02-04T22:21:12+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -20,7 +20,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/ja/tags/</loc>
-    <lastmod>2020-01-27T22:07:07+09:00</lastmod>
+    <lastmod>2020-02-04T22:21:12+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -35,21 +35,14 @@
   </url>
   
   <url>
-    <loc>https://mjer-iaido.github.io/ja/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/</loc>
-    <lastmod>2020-01-27T22:07:07+09:00</lastmod>
+    <loc>https://mjer-iaido.github.io/ja/tags/%E5%A5%89%E7%B4%8D%E6%BC%94%E6%AD%A6/</loc>
+    <lastmod>2020-02-04T22:21:12+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mjer-iaido.github.io/ja/post/%E5%8F%B0%E6%B9%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC2020/</loc>
-    <lastmod>2020-01-27T22:07:07+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2020-01-27T22:07:07+09:00</lastmod>
+    <lastmod>2020-02-04T22:21:12+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -62,6 +55,33 @@
                 hreflang="ja"
                 href="https://mjer-iaido.github.io/ja/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/ja/post/%E6%AD%A6%E8%94%B5%E4%B8%80%E5%AE%AE%E6%B0%B7%E5%B7%9D%E7%A5%9E%E7%A4%BE-%E5%A5%89%E7%B4%8D%E6%BC%94%E6%AD%A6%E4%BC%9A%E5%AE%9F%E6%96%BD%E3%81%AE%E3%81%94%E6%A1%88%E5%86%85/</loc>
+    <lastmod>2020-02-04T22:21:12+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/ja/post/2014%E5%B9%B4-%E6%AD%A6%E7%94%B0%E7%A5%9E%E7%A4%BE%E5%A5%89%E7%B4%8D%E6%BC%94%E6%AD%A6%E6%97%A5%E9%9C%B2%E6%AD%A6%E9%81%93%E4%BA%A4%E6%B5%81%E5%B9%B4/</loc>
+    <lastmod>2020-02-04T21:45:51+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/ja/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/</loc>
+    <lastmod>2020-01-27T22:07:07+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/ja/post/%E5%8F%B0%E6%B9%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC2020/</loc>
+    <lastmod>2020-01-27T22:07:07+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
