@@ -6,7 +6,7 @@
     <description>Recent content in Tags on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2020 00:00:44 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 00:10:19 +0900</lastBuildDate>
     
 	<atom:link href="https://mjer-iaido.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title></title>
       <link>https://mjer-iaido.github.io/en/tags/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:44 +0900</pubDate>
+      <pubDate>Wed, 19 Feb 2020 00:10:19 +0900</pubDate>
       
       <guid>https://mjer-iaido.github.io/en/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seminar</title>
+      <link>https://mjer-iaido.github.io/en/tags/seminar/</link>
+      <pubDate>Wed, 19 Feb 2020 00:10:19 +0900</pubDate>
+      
+      <guid>https://mjer-iaido.github.io/en/tags/seminar/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Wed, 05 Feb 2020 00:00:44 +0900</pubDate>
       
       <guid>https://mjer-iaido.github.io/en/tags/mjer-iaido/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>seminar</title>
-      <link>https://mjer-iaido.github.io/en/tags/seminar/</link>
-      <pubDate>Mon, 27 Jan 2020 22:07:49 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/en/tags/seminar/</guid>
       <description></description>
     </item>
     
