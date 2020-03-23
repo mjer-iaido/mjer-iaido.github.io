@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2020-02-19T00:10:19+09:00</lastmod>
+    <lastmod>2020-03-23T22:38:44+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -19,15 +19,15 @@
   </url>
   
   <url>
-    <loc>https://mjer-iaido.github.io/en/post/about-kamata-winter-seminar2020/</loc>
-    <lastmod>2020-02-19T00:10:19+09:00</lastmod>
+    <loc>https://mjer-iaido.github.io/en/post/hikawa-shrine2020/</loc>
+    <lastmod>2020-03-23T22:38:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2020-02-19T00:10:19+09:00</lastmod>
+    <lastmod>2020-03-23T22:38:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -44,7 +44,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2020-02-19T00:10:19+09:00</lastmod>
+    <lastmod>2020-03-23T22:38:44+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -60,8 +60,15 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/seminar/</loc>
-    <lastmod>2020-02-19T00:10:19+09:00</lastmod>
+    <lastmod>2020-03-23T22:38:44+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/post/about-kamata-winter-seminar2020/</loc>
+    <lastmod>2020-02-19T00:10:19+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
