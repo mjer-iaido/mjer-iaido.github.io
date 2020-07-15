@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2020-07-09T23:16:34+09:00</lastmod>
+    <lastmod>2020-07-15T23:24:52+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -20,7 +20,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2020-07-09T23:16:34+09:00</lastmod>
+    <lastmod>2020-07-15T23:24:52+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -36,8 +36,15 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/notice-cancellation-of-the9th-taikai2020/</loc>
+    <lastmod>2020-07-15T23:24:52+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2020-07-09T23:16:34+09:00</lastmod>
+    <lastmod>2020-07-15T23:24:52+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
