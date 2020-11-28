@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2020-11-24T22:55:32+09:00</lastmod>
+    <lastmod>2020-11-28T23:15:45+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -20,7 +20,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2020-11-24T22:55:32+09:00</lastmod>
+    <lastmod>2020-11-28T23:15:45+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -36,8 +36,15 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/shinsa2020esakadojo-matsudo/</loc>
+    <lastmod>2020-11-28T23:15:45+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2020-11-24T22:55:32+09:00</lastmod>
+    <lastmod>2020-11-28T23:15:45+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

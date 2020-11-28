@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/ja/tags/</loc>
-    <lastmod>2020-11-24T22:51:07+09:00</lastmod>
+    <lastmod>2020-11-28T23:14:48+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -19,8 +19,15 @@
   </url>
   
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/2020%E5%B9%B4%E6%98%87%E6%AE%B5%E5%AF%A9%E6%9F%BB%E6%B1%9F%E5%9D%82%E9%81%93%E5%A0%B4-%E6%9D%BE%E6%88%B8/</loc>
+    <lastmod>2020-11-28T23:14:48+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://mjer-iaido.github.io/ja/tags/</loc>
-    <lastmod>2020-11-24T22:51:07+09:00</lastmod>
+    <lastmod>2020-11-28T23:14:48+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -36,7 +43,7 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2020-11-24T22:51:07+09:00</lastmod>
+    <lastmod>2020-11-28T23:14:48+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
