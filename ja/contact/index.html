@@ -30,7 +30,7 @@
 
 
 
-<meta itemprop="wordCount" content="70">
+<meta itemprop="wordCount" content="85">
 
 
 
@@ -163,11 +163,12 @@ if (!doNotTrack) {
         </h1>
       </header>
       <div class="nested-copy-line-height lh-copy f4 nested-links nested-img mid-gray">
-        <p>当連盟へのご質問・お問い合わせは下記フォームからお問い合わせください。<br>
+        <!--
+当連盟へのご質問・お問い合わせは下記フォームからお問い合わせください。<br>
 お名前・返信用メールアドレスは必須項目になります。
-<!--
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
--->
+
+This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service.
+
 
 
 
@@ -188,7 +189,29 @@ This is an example of a custom shortcode that you can put right into your conten
     <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black" type="submit" value="Send" />
 
 </form>
-</p>
+
+-->
+
+<p>当連盟へのご質問・お問い合わせは下記フォームからお問い合わせください。<br>
+返信用メールアドレスは必須項目になります。
+<br>
+<form
+  action="https://formspree.io/f/maylpdrb" method="POST"></p>
+
+<p><label>
+    メールアドレス:<br>
+    <input type="text" name="_replyto" size="60">
+  </label>
+  <br>
+  <label>
+    お問い合わせ内容:<br>
+    <textarea name="message" rows="10" cols="60"></textarea>
+  </label></p>
+
+<p><!-- your other form fields go here --></p>
+
+<p><button type="submit">Send</button>
+</form></p>
 
       </div>
     </article>
