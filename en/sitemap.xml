@@ -4,7 +4,47 @@
   
   <url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2021-01-02T19:03:20+09:00</lastmod>
+    <lastmod>2021-01-04T01:11:12+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/post/event2021/</loc>
+    <lastmod>2021-01-04T01:11:12+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/</loc>
+    <lastmod>2021-01-04T01:11:12+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mjer-iaido.github.io/en/tags/</loc>
+    <lastmod>2021-01-04T01:11:12+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -23,39 +63,6 @@
     <lastmod>2021-01-02T19:03:20+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2021-01-02T19:03:20+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2021-01-02T19:03:20+09:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/tags/"
-                />
   </url>
   
   <url>
