@@ -1,63 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on World MJER Iaido Federation</title>
+    <title>World MJER Iaido Federation</title>
     <link>https://mjer-iaido.github.io/ja/tags/</link>
-    <description>Recent content in Tags on World MJER Iaido Federation</description>
+    <description>Recent content on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 01:10:56 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 00:50:49 +0900</lastBuildDate>
     
 	<atom:link href="https://mjer-iaido.github.io/ja/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://mjer-iaido.github.io/ja/tags/</link>
+      <title>2021年2月度 蒲田セミナー中止のお知らせ</title>
+      <link>https://mjer-iaido.github.io/ja/post/2021%E5%B9%B42%E6%9C%88%E5%BA%A6-%E8%92%B2%E7%94%B0%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E4%B8%AD%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</link>
+      <pubDate>Thu, 14 Jan 2021 00:50:49 +0900</pubDate>
+      
+      <guid>https://mjer-iaido.github.io/ja/post/2021%E5%B9%B42%E6%9C%88%E5%BA%A6-%E8%92%B2%E7%94%B0%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E4%B8%AD%E6%AD%A2%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</guid>
+      <description>各位 2021年2月23日に予定していた「2月度 蒲田セミナー」について、コロナウイルスの状況を鑑み中止とすることを決定しました。 健康には最大限</description>
+    </item>
+    
+    <item>
+      <title>行事予定2021</title>
+      <link>https://mjer-iaido.github.io/ja/post/%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A2021/</link>
       <pubDate>Mon, 04 Jan 2021 01:10:56 +0900</pubDate>
       
-      <guid>https://mjer-iaido.github.io/ja/tags/</guid>
-      <description></description>
+      <guid>https://mjer-iaido.github.io/ja/post/%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A2021/</guid>
+      <description>各位。 2021年 国際連盟行事予定を更新しました。 行事予定ページでご確認ください。 情報は確定次第更新します。 World MJER Iaido Federation © 正統正流無雙直傳英信流居</description>
     </item>
     
     <item>
-      <title>セミナー</title>
-      <link>https://mjer-iaido.github.io/ja/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/</link>
-      <pubDate>Sat, 12 Dec 2020 16:58:36 +0900</pubDate>
+      <title>行事予定2021</title>
+      <link>https://mjer-iaido.github.io/ja/post/%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A2021/</link>
+      <pubDate>Mon, 04 Jan 2021 01:10:56 +0900</pubDate>
       
-      <guid>https://mjer-iaido.github.io/ja/tags/%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC/</guid>
-      <description></description>
+      <guid>https://mjer-iaido.github.io/ja/post/%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A2021/</guid>
+      <description>各位。 2021年 国際連盟行事予定を更新しました。 行事予定ページでご確認ください。 情報は確定次第更新します。 World MJER Iaido Federation © 正統正流無雙直傳英信流居</description>
     </item>
     
     <item>
-      <title>奉納演武</title>
-      <link>https://mjer-iaido.github.io/ja/tags/%E5%A5%89%E7%B4%8D%E6%BC%94%E6%AD%A6/</link>
-      <pubDate>Mon, 23 Mar 2020 22:33:09 +0900</pubDate>
+      <title>謹賀新年2021</title>
+      <link>https://mjer-iaido.github.io/ja/post/%E8%AC%B9%E8%B3%80%E6%96%B0%E5%B9%B42021/</link>
+      <pubDate>Sat, 02 Jan 2021 19:02:37 +0900</pubDate>
       
-      <guid>https://mjer-iaido.github.io/ja/tags/%E5%A5%89%E7%B4%8D%E6%BC%94%E6%AD%A6/</guid>
-      <description></description>
+      <guid>https://mjer-iaido.github.io/ja/post/%E8%AC%B9%E8%B3%80%E6%96%B0%E5%B9%B42021/</guid>
+      <description>謹賀新年。 全く予測のつかない年明けとなりました。しばらくはコロナとの戦いが続きそうです。 道場での稽古は当分ままなりませんが、道場での稽古だけ</description>
     </item>
     
     <item>
-      <title>行事予定</title>
-      <link>https://mjer-iaido.github.io/ja/tags/%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A/</link>
-      <pubDate>Wed, 01 Jan 2020 16:59:47 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/ja/tags/%E8%A1%8C%E4%BA%8B%E4%BA%88%E5%AE%9A/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>国際連盟ブログ</title>
-      <link>https://mjer-iaido.github.io/ja/tags/%E5%9B%BD%E9%9A%9B%E9%80%A3%E7%9B%9F%E3%83%96%E3%83%AD%E3%82%B0/</link>
-      <pubDate>Fri, 01 Mar 2019 00:05:20 +0900</pubDate>
-      
-      <guid>https://mjer-iaido.github.io/ja/tags/%E5%9B%BD%E9%9A%9B%E9%80%A3%E7%9B%9F%E3%83%96%E3%83%AD%E3%82%B0/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>   <title>謹賀新年2021</title>
+      <title>謹賀新年2021</title>
       <link>https://mjer-iaido.github.io/ja/post/%E8%AC%B9%E8%B3%80%E6%96%B0%E5%B9%B42021/</link>
       <pubDate>Sat, 02 Jan 2021 19:02:37 +0900</pubDate>
       
