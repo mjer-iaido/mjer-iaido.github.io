@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iaido on World MJER Iaido Federation</title>
@@ -6,11 +6,7 @@
     <description>Recent content in iaido on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jun 2018 15:16:28 +0900</lastBuildDate>
-    
-	<atom:link href="https://mjer-iaido.github.io/en/tags/iaido/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 16 Jun 2018 15:16:28 +0900</lastBuildDate><atom:link href="https://mjer-iaido.github.io/en/tags/iaido/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boston Seminar2018</title>
       <link>https://mjer-iaido.github.io/en/post/boston-seminar2018/</link>
@@ -91,8 +87,7 @@
       <guid>https://mjer-iaido.github.io/en/post/the-6th-taikai/</guid>
       <description>Dear members
 Information about The 6th Taikai.
-Date : November 23, 2017
-10am-5pm
+Date : November 23, 2017 10am-5pm
 Location : Tokyo Jitsugyo high school Kamata Ota Tokyo.
 Keiko schedule before The 6th Taikai at Esaka dojo Matsudo. Location : Matsudo Budo-kan at Matsudo sports park
 Saturday, November 4

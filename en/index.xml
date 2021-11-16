@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iaido on World MJER Iaido Federation</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Iaido on World MJER Iaido Federation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jun 2021 22:59:28 +0900</lastBuildDate>
-    
-	<atom:link href="https://mjer-iaido.github.io/en/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 04 Jun 2021 22:59:28 +0900</lastBuildDate><atom:link href="https://mjer-iaido.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Esaka Sensei Resigned</title>
       <link>https://mjer-iaido.github.io/en/post/about-esaka-sensei-resigned/</link>
@@ -62,7 +58,7 @@
       <pubDate>Sat, 12 Dec 2020 16:58:58 +0900</pubDate>
       
       <guid>https://mjer-iaido.github.io/en/post/shinsa2020shingapore/</guid>
-      <description>Congratulations!! World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟</description>
+      <description>Congratulations!!</description>
     </item>
     
     <item>
@@ -89,7 +85,7 @@
       <pubDate>Mon, 23 Nov 2020 21:53:33 +0900</pubDate>
       
       <guid>https://mjer-iaido.github.io/en/post/our-new-dojo-%E5%8E%B3%E5%92%8C%E9%A4%A8genwakan/</guid>
-      <description>Dear members. Our new official dojo information. &amp;ldquo;Alameda Iaido 「厳和館(Genwakan)」&amp;rdquo; (Dojo List) Website : https://alameda-iaido.org/ facebook: https://www.facebook.com/alameda.iaido/ Best regards World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟</description>
+      <description>Dear members. Our new official dojo information. &amp;ldquo;Alameda Iaido 「厳和館(Genwakan)」&amp;rdquo; (Dojo List) Website : https://alameda-iaido.org/ facebook: https://www.facebook.com/alameda.iaido/ World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟</description>
     </item>
     
     <item>
@@ -441,7 +437,7 @@
       
       <guid>https://mjer-iaido.github.io/en/post/the-6th-taikai-finished/</guid>
       <description>November 23rd, 2017
-          Other pics
+     Other pics
 web team</description>
     </item>
     
@@ -453,7 +449,7 @@ web team</description>
       <guid>https://mjer-iaido.github.io/en/post/seminar-in-germany/</guid>
       <description>22.-24. September 2017
 World MJER Iaido Federation&amp;rsquo;s seminar in Germany
-          Other photos are here
+     Other photos are here
 web team</description>
     </item>
     
@@ -465,7 +461,7 @@ web team</description>
       <guid>https://mjer-iaido.github.io/en/post/seminar-in-asahikawa-oct2017/</guid>
       <description>World MJER Iaido Federation&amp;rsquo;s seminar in Asahikawa Hokkaido
 October 7-8, 2017
-Keiko       Awards ceremony     Congratulations!!</description>
+Keiko    Awards ceremony   Congratulations!!</description>
     </item>
     
     <item>
@@ -476,8 +472,7 @@ Keiko       Awards ceremony     Congratulations!!</description>
       <guid>https://mjer-iaido.github.io/en/post/the-6th-taikai/</guid>
       <description>Dear members
 Information about The 6th Taikai.
-Date : November 23, 2017
-10am-5pm
+Date : November 23, 2017 10am-5pm
 Location : Tokyo Jitsugyo high school Kamata Ota Tokyo.
 Keiko schedule before The 6th Taikai at Esaka dojo Matsudo. Location : Matsudo Budo-kan at Matsudo sports park
 Saturday, November 4
@@ -505,9 +500,7 @@ Practice1 : 1pm -3pm</description>
       <pubDate>Fri, 29 Sep 2017 00:21:33 +0900</pubDate>
       
       <guid>https://mjer-iaido.github.io/en/post/precepts-of-master-ko%CC%84no-hyakuren/</guid>
-      <description>Precepts of Master Kōno Hyakuren, 20 th Head of the Musō-jikiden Eishin-ryu School of Iaido
- 
-I sincerely hope that those who seek to learn the teachings of this school will maintain throughout their training a firm resolution to correctly transmit to later practitioners the forms of our school that former masters have handed down from ancient times to the present day, absolutely uncolored by personal philosophy and in no way altered.</description>
+      <description>Precepts of Master Kōno Hyakuren, 20 th Head of the Musō-jikiden Eishin-ryu School of Iaido </description>
     </item>
     
     <item>
@@ -516,11 +509,7 @@ I sincerely hope that those who seek to learn the teachings of this school will 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mjer-iaido.github.io/en/contact/</guid>
-      <description>For questions and inquiries, please contact us from the form below.
-Your Email address is required.  Your email:
-  Your message:
- 
-Send</description>
+      <description>For questions and inquiries, please contact us from the form below.Your Email address is required. Send</description>
     </item>
     
   </channel>
