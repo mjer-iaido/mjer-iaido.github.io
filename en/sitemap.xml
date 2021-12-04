@@ -2,13 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mjer-iaido.github.io/en/post/about-esaka-sensei-resigned/</loc>
-    <lastmod>2021-06-04T22:59:28+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2021-06-04T22:59:28+09:00</lastmod>
+    <lastmod>2021-12-05T00:37:48+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -21,6 +16,16 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
                 />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/shinsa2021esakadojomatsudo/</loc>
+    <lastmod>2021-12-05T00:37:48+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/about-esaka-sensei-resigned/</loc>
+    <lastmod>2021-06-04T22:59:28+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mjer-iaido.github.io/en/post/flashback-the3rd-taikai/</loc>
     <lastmod>2021-05-22T15:43:34+09:00</lastmod>
