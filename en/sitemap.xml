@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2022-01-29T18:03:39+09:00</lastmod>
+    <lastmod>2022-04-10T13:14:31+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -17,8 +17,23 @@
                 href="https://mjer-iaido.github.io/en/"
                 />
   </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/information-about-european-seminar2022/</loc>
+    <lastmod>2022-04-10T13:14:31+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/information-about-european-seminar2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/information-about-european-seminar2022/"
+                />
+  </url><url>
     <loc>https://mjer-iaido.github.io/en/tags/seminar/</loc>
-    <lastmod>2022-01-29T18:03:39+09:00</lastmod>
+    <lastmod>2022-04-10T13:14:31+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -32,13 +47,8 @@
                 href="https://mjer-iaido.github.io/en/tags/seminar/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/shinsa2022taiwan/</loc>
-    <lastmod>2022-01-29T18:03:39+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2022-01-29T18:03:39+09:00</lastmod>
+    <lastmod>2022-04-10T13:14:31+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -51,6 +61,11 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/tags/"
                 />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/shinsa2022taiwan/</loc>
+    <lastmod>2022-01-29T18:03:39+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mjer-iaido.github.io/en/post/france_-sensei-joel-lopez-schlick-pass-away/</loc>
     <lastmod>2022-01-03T15:36:29+09:00</lastmod>
