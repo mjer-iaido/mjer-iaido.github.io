@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/vancouver-dojo-japanfair2022/</loc>
+    <lastmod>2022-04-17T14:16:48+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/vancouver-dojo-japanfair2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/vancouver-dojo-japanfair2022/"
+                />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/ja/</loc>
+    <lastmod>2022-04-17T14:16:48+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/"
+                />
+  </url><url>
     <loc>https://mjer-iaido.github.io/ja/post/information-about-european-seminar2022/</loc>
     <lastmod>2022-04-10T13:14:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -36,21 +66,6 @@
     <lastmod>2022-04-10T13:14:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2022-04-10T13:14:43+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/"
-                />
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/tags/seminar/</loc>
     <lastmod>2022-01-29T17:34:29+09:00</lastmod>
