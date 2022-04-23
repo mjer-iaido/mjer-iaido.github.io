@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/about-early-summer-seminar2022/</loc>
+    <lastmod>2022-04-23T16:49:14+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2022-04-17T14:16:52+09:00</lastmod>
+    <lastmod>2022-04-23T16:49:14+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +20,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
+                />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/tags/seminar/</loc>
+    <lastmod>2022-04-23T16:49:14+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/tags/seminar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/tags/seminar/"
+                />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/tags/</loc>
+    <lastmod>2022-04-23T16:49:14+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/en/post/vancouver-dojo-japanfair2022/</loc>
@@ -45,36 +80,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/post/information-about-european-seminar2022/"
-                />
-  </url><url>
-    <loc>https://mjer-iaido.github.io/en/tags/seminar/</loc>
-    <lastmod>2022-04-10T13:14:31+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/tags/seminar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/tags/seminar/"
-                />
-  </url><url>
-    <loc>https://mjer-iaido.github.io/en/tags/</loc>
-    <lastmod>2022-04-10T13:14:31+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/en/post/shinsa2022taiwan/</loc>
