@@ -2,13 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mjer-iaido.github.io/en/post/early-summer-seminar2022/</loc>
-    <lastmod>2022-07-03T16:56:14+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2022-07-03T16:56:14+09:00</lastmod>
+    <lastmod>2022-08-03T16:04:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -21,6 +16,26 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
                 />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/vancouver-dojo-2022-powell-street-festival/</loc>
+    <lastmod>2022-08-03T16:04:26+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/vancouver-dojo-2022-powell-street-festival/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/vancouver-dojo-2022-powell-street-festival/"
+                />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/early-summer-seminar2022/</loc>
+    <lastmod>2022-07-03T16:56:14+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mjer-iaido.github.io/en/tags/seminar/</loc>
     <lastmod>2022-07-03T16:56:14+09:00</lastmod>
