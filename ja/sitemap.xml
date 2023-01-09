@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/%E3%82%AB%E3%83%8A%E3%83%80todo-kai/</loc>
+    <lastmod>2023-01-09T18:57:53+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2023-01-01T14:04:42+09:00</lastmod>
+    <lastmod>2023-01-09T18:57:53+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
