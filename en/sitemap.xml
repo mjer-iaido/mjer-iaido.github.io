@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2023-04-23T21:07:11+09:00</lastmod>
+    <lastmod>2023-06-25T10:48:56+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +15,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
+                />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/north-america-seminar2023/</loc>
+    <lastmod>2023-06-25T10:48:56+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/north-america-seminar2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/north-america-seminar2023/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/en/post/vancouver-iaido-at-the-sakuradays-japanfair2023/</loc>
