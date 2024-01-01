@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2023-12-24T14:48:41+09:00</lastmod>
+    <lastmod>2023-12-31T14:26:48+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,11 @@
                 hreflang="ja"
                 href="https://mjer-iaido.github.io/ja/"
                 />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/ja/post/%E8%AC%B9%E8%B3%80%E6%96%B0%E5%B9%B42024/</loc>
+    <lastmod>2023-12-31T14:26:48+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/post/%E7%AC%AC9%E5%9B%9E-%E5%9B%BD%E9%9A%9B%E9%80%A3%E7%9B%9F%E5%A4%A7%E4%BC%9A/</loc>
     <lastmod>2023-12-24T14:48:41+09:00</lastmod>
