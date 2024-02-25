@@ -2,13 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mjer-iaido.github.io/en/post/happy-new-year2024/</loc>
-    <lastmod>2023-12-31T14:27:27+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2023-12-31T14:27:27+09:00</lastmod>
+    <lastmod>2024-02-25T12:28:51+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -22,29 +17,39 @@
                 href="https://mjer-iaido.github.io/en/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/the-9th-taikai/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/tokyo-winter-seminar2024/</loc>
+    <lastmod>2024-02-25T12:28:51+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/happy-new-year2024/</loc>
+    <lastmod>2023-12-31T14:27:27+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/the-9th-Taikai/</loc>
     <lastmod>2023-12-24T14:49:36+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/hokkaido-seminar2023/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Hokkaido-seminar2023/</loc>
     <lastmod>2023-10-09T17:13:11+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/germany-seminar2023/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Germany-seminar2023/</loc>
     <lastmod>2023-10-01T14:12:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/post/germany-seminar2023/"
+                href="https://mjer-iaido.github.io/ja/post/Germany-seminar2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mjer-iaido.github.io/en/post/germany-seminar2023/"
+                href="https://mjer-iaido.github.io/en/post/Germany-seminar2023/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/en/post/singapore-seminar2023/</loc>
@@ -67,7 +72,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/r.i.p.-esaka-sensei/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/R.I.P.-Esaka-sensei/</loc>
     <lastmod>2023-08-11T19:20:36+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -77,37 +82,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/north-america-seminar2023/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/North-America-seminar2023/</loc>
     <lastmod>2023-06-25T10:48:56+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/post/north-america-seminar2023/"
+                href="https://mjer-iaido.github.io/ja/post/North-America-seminar2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mjer-iaido.github.io/en/post/north-america-seminar2023/"
+                href="https://mjer-iaido.github.io/en/post/North-America-seminar2023/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/vancouver-iaido-at-the-sakuradays-japanfair2023/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Vancouver-Iaido-at-the-SakuraDays-JapanFair2023/</loc>
     <lastmod>2023-04-23T21:07:11+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/post/vancouver-iaido-at-the-sakuradays-japanfair2023/"
+                href="https://mjer-iaido.github.io/ja/post/Vancouver-Iaido-at-the-SakuraDays-JapanFair2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mjer-iaido.github.io/en/post/vancouver-iaido-at-the-sakuradays-japanfair2023/"
+                href="https://mjer-iaido.github.io/en/post/Vancouver-Iaido-at-the-SakuraDays-JapanFair2023/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/hikawa-shrine-embu2023/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Hikawa-shrine-embu2023/</loc>
     <lastmod>2023-03-21T16:15:29+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -117,7 +122,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/taiwan-seminar2023/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Taiwan-seminar2023/</loc>
     <lastmod>2023-02-18T10:46:26+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -132,7 +137,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/a-happy-new-year2023/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/A-Happy-New-Year2023/</loc>
     <lastmod>2023-01-01T14:05:13+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -157,12 +162,12 @@
                 href="https://mjer-iaido.github.io/en/post/vancouver-dojo-shinsa2022_2/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/cooperated-with-the-nhk-magazine/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Cooperated-with-the-NHK-magazine/</loc>
     <lastmod>2022-10-16T17:36:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/european-seminar2022/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/European-seminar2022/</loc>
     <lastmod>2022-09-11T16:52:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -197,7 +202,7 @@
                 href="https://mjer-iaido.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/genyokan-combined-training2022/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Genyokan-combined-training2022/</loc>
     <lastmod>2022-09-10T20:26:08+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -267,27 +272,27 @@
                 href="https://mjer-iaido.github.io/en/post/vancouver-dojo-japanfair2022/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/information-about-european-seminar2022/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/information-about-European-seminar2022/</loc>
     <lastmod>2022-04-10T13:14:31+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/post/information-about-european-seminar2022/"
+                href="https://mjer-iaido.github.io/ja/post/information-about-European-seminar2022/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mjer-iaido.github.io/en/post/information-about-european-seminar2022/"
+                href="https://mjer-iaido.github.io/en/post/information-about-European-seminar2022/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/shinsa2022taiwan/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Shinsa2022taiwan/</loc>
     <lastmod>2022-01-29T18:03:39+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/france_-sensei-joel-lopez-schlick-pass-away/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/FRANCE_-sensei-Joel-LOPEZ-SCHLICK-Pass-away/</loc>
     <lastmod>2022-01-03T15:36:29+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -297,7 +302,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/shinsa2021esakadojomatsudo/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/shinsa2021EsakaDojoMatsudo/</loc>
     <lastmod>2021-12-05T00:37:48+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -312,7 +317,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/canceled-kamata-winter-seminar/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/canceled-Kamata-winter-seminar/</loc>
     <lastmod>2021-01-14T00:46:22+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -322,27 +327,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/a-happy-new-year2021/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/A-Happy-New-Year2021/</loc>
     <lastmod>2021-01-02T19:03:20+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/shinsa2020shingapore/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Shinsa2020Shingapore/</loc>
     <lastmod>2020-12-12T16:58:58+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/shinsa2020esakadojo-matsudo/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Shinsa2020EsakaDojo-Matsudo/</loc>
     <lastmod>2020-11-28T23:15:45+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/the-structure-of-world-mjer-iaido-federation2021/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/the-structure-of-World-MJER-Iaido-Federation2021/</loc>
     <lastmod>2020-11-24T22:55:32+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/our-new-dojo-%E5%8E%B3%E5%92%8C%E9%A4%A8genwakan/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Our-new-dojo-%E5%8E%B3%E5%92%8C%E9%A4%A8Genwakan/</loc>
     <lastmod>2020-11-23T21:53:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -352,7 +357,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/the1sttaikai-to-th8thtaikai/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/the1stTaikai-to-th8thTaikai/</loc>
     <lastmod>2020-07-09T23:16:34+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -362,7 +367,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/about-kamata-seminar2020/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/about-Kamata-seminar2020/</loc>
     <lastmod>2020-05-12T23:24:45+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -372,7 +377,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/hikawa-shrine2020/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Hikawa-Shrine2020/</loc>
     <lastmod>2020-03-23T22:38:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -382,7 +387,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/20th-head-of-the-mjer-school-of-iaido/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/20th-Head-of-the-MJER-School-of-Iaido/</loc>
     <lastmod>2020-02-05T00:00:44+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -392,7 +397,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/taiwan-seminar2020/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Taiwan-seminar2020/</loc>
     <lastmod>2020-01-27T22:07:49+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -407,7 +412,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/a-happy-new-year2020/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/A-Happy-New-Year2020/</loc>
     <lastmod>2019-12-31T03:16:24+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -427,57 +432,57 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/singapore-seminar2019/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Singapore-seminar2019/</loc>
     <lastmod>2019-09-01T17:16:24+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/ken-shin-dojo/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Ken-Shin-Dojo/</loc>
     <lastmod>2019-08-18T16:18:45+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/asahikawa-kamikawara-shrine2019/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Asahikawa-Kamikawara-shrine2019/</loc>
     <lastmod>2019-08-09T01:01:57+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/german-seminar2019/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/German-seminar2019/</loc>
     <lastmod>2019-07-10T00:51:19+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/kamata-early-summer-seminar2019/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Kamata-early-summer-seminar2019/</loc>
     <lastmod>2019-06-30T16:00:52+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/canada-seminar2019/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Canada-seminar2019/</loc>
     <lastmod>2019-06-15T15:03:22+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/about-the-8th-taikai/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/About-The-8th-Taikai/</loc>
     <lastmod>2019-04-07T02:57:31+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/kamata-winter-seminar2019/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Kamata-winter-seminar2019/</loc>
     <lastmod>2019-02-24T22:58:24+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/taiwan-seminar-2019/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Taiwan-seminar-2019/</loc>
     <lastmod>2019-01-25T00:37:06+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/happy-new-year2019/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Happy-New-Year2019/</loc>
     <lastmod>2018-12-30T19:57:22+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/highlights-of-the-7th-taikai/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Highlights-of-the-7th-Taikai/</loc>
     <lastmod>2018-12-23T16:15:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -487,7 +492,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/hokkaido-autumn-seminar2018/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Hokkaido-autumn-seminar2018/</loc>
     <lastmod>2018-10-21T22:50:24+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -497,37 +502,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/tags/singapore/</loc>
+    <loc>https://mjer-iaido.github.io/en/tags/Singapore/</loc>
     <lastmod>2018-09-16T19:20:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/singapore-seminar2018/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Singapore-seminar2018/</loc>
     <lastmod>2018-09-16T19:20:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/tags/hokkaido/</loc>
+    <loc>https://mjer-iaido.github.io/en/tags/Hokkaido/</loc>
     <lastmod>2018-08-04T01:28:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/kamikawa-shrine-enbu-at-asahikawa/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Kamikawa-shrine-Enbu-at-Asahikawa/</loc>
     <lastmod>2018-08-04T01:28:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/tags/german/</loc>
+    <loc>https://mjer-iaido.github.io/en/tags/German/</loc>
     <lastmod>2018-07-15T23:51:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/german-semnar2018/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/German-semnar2018/</loc>
     <lastmod>2018-07-15T23:51:55+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/tags/kamata/</loc>
+    <loc>https://mjer-iaido.github.io/en/tags/Kamata/</loc>
     <lastmod>2018-07-02T00:55:08+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -537,7 +542,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/boston-seminar2018/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Boston-seminar2018/</loc>
     <lastmod>2018-06-16T15:16:28+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -552,7 +557,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/hokkaiido-spring-seminar2018/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Hokkaiido-spring-seminar2018/</loc>
     <lastmod>2018-06-03T23:57:17+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -562,37 +567,37 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/information-about-boston-seminar2018/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Information-about-Boston-seminar2018/</loc>
     <lastmod>2018-03-21T16:54:22+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/kamata-winter-seminar2018/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Kamata-winter-seminar2018/</loc>
     <lastmod>2018-02-25T19:32:05+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/an-introduction-to-mjer-iaido-04/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/An-introduction-to-MJER-Iaido-04/</loc>
     <lastmod>2018-01-16T00:01:36+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/an-introduction-to-mjer-iaido-03/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/An-introduction-to-MJER-Iaido-03/</loc>
     <lastmod>2018-01-14T00:20:05+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/an-introduction-to-mjer-iaido-02/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/An-introduction-to-MJER-Iaido-02/</loc>
     <lastmod>2018-01-13T01:39:46+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/an-introduction-to-mjer-iaido-01/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/An-introduction-to-MJER-Iaido-01/</loc>
     <lastmod>2018-01-12T01:46:59+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/new-year-greetings-2018/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/New-Year-Greetings-2018/</loc>
     <lastmod>2018-01-01T00:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -607,12 +612,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/seminar-in-germany/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Seminar-in-Germany/</loc>
     <lastmod>2017-10-17T23:09:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/seminar-in-asahikawa-oct2017/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Seminar-in-Asahikawa-oct2017/</loc>
     <lastmod>2017-10-10T00:09:17+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -632,32 +637,32 @@
                 href="https://mjer-iaido.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/categories/taikai/</loc>
+    <loc>https://mjer-iaido.github.io/en/categories/Taikai/</loc>
     <lastmod>2017-10-05T01:40:15+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/the-6th-taikai/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/The-6th-Taikai/</loc>
     <lastmod>2017-10-05T01:40:15+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/categories/head-master/</loc>
+    <loc>https://mjer-iaido.github.io/en/categories/Head-master/</loc>
     <lastmod>2017-09-30T23:16:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/seito-20th-headmaster-and-seito-21st-headmaster/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Seito-20th-Headmaster-and-Seito-21st-Headmaster/</loc>
     <lastmod>2017-09-30T23:16:07+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/categories/kono-hyakuren/</loc>
+    <loc>https://mjer-iaido.github.io/en/categories/Kono-Hyakuren/</loc>
     <lastmod>2017-09-29T00:21:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/en/post/precepts-of-master-k%C5%8Dno-hyakuren/</loc>
+    <loc>https://mjer-iaido.github.io/en/post/Precepts-of-Master-K%C5%8Dno-Hyakuren/</loc>
     <lastmod>2017-09-29T00:21:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/2%E6%9C%88%E5%BA%A6%E5%90%88%E5%90%8C%E7%A8%BD%E5%8F%A4%E4%BC%9A2024/</loc>
+    <lastmod>2024-02-25T12:28:02+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2023-12-31T14:26:48+09:00</lastmod>
+    <lastmod>2024-02-25T12:28:02+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -32,19 +37,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/ja/post/germany-seminar2023/</loc>
+    <loc>https://mjer-iaido.github.io/ja/post/Germany-seminar2023/</loc>
     <lastmod>2023-10-01T14:12:29+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mjer-iaido.github.io/en/post/germany-seminar2023/"
+                href="https://mjer-iaido.github.io/en/post/Germany-seminar2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/post/germany-seminar2023/"
+                href="https://mjer-iaido.github.io/ja/post/Germany-seminar2023/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/post/singapore-seminar2023/</loc>
@@ -77,34 +82,34 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/ja/post/north-america-seminar2023/</loc>
+    <loc>https://mjer-iaido.github.io/ja/post/North-America-seminar2023/</loc>
     <lastmod>2023-06-25T10:48:50+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mjer-iaido.github.io/en/post/north-america-seminar2023/"
+                href="https://mjer-iaido.github.io/en/post/North-America-seminar2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/post/north-america-seminar2023/"
+                href="https://mjer-iaido.github.io/ja/post/North-America-seminar2023/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/ja/post/vancouver-iaido-at-the-sakuradays-japanfair2023/</loc>
+    <loc>https://mjer-iaido.github.io/ja/post/Vancouver-Iaido-at-the-SakuraDays-JapanFair2023/</loc>
     <lastmod>2023-04-23T21:06:59+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mjer-iaido.github.io/en/post/vancouver-iaido-at-the-sakuradays-japanfair2023/"
+                href="https://mjer-iaido.github.io/en/post/Vancouver-Iaido-at-the-SakuraDays-JapanFair2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/post/vancouver-iaido-at-the-sakuradays-japanfair2023/"
+                href="https://mjer-iaido.github.io/ja/post/Vancouver-Iaido-at-the-SakuraDays-JapanFair2023/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/post/%E6%AD%A6%E8%94%B5%E4%B8%80%E5%AE%AE%E6%B0%B7%E5%B7%9D%E7%A5%9E%E7%A4%BE%E6%AD%A3%E5%BC%8F%E5%8F%82%E6%8B%9D%E5%8F%8A%E3%81%B3%E5%A5%89%E7%B4%8D%E6%BC%94%E6%AD%A62023/</loc>
@@ -167,7 +172,7 @@
                 href="https://mjer-iaido.github.io/ja/post/vancouver-dojo-shinsa2022_2/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/ja/post/nhk%E5%87%BA%E7%89%88%E5%88%80%E5%89%A3lovers%E5%85%A5%E9%96%80%E5%8F%96%E6%9D%90%E5%8D%94%E5%8A%9B/</loc>
+    <loc>https://mjer-iaido.github.io/ja/post/NHK%E5%87%BA%E7%89%88%E5%88%80%E5%89%A3Lovers%E5%85%A5%E9%96%80%E5%8F%96%E6%9D%90%E5%8D%94%E5%8A%9B/</loc>
     <lastmod>2022-10-16T17:33:22+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -277,19 +282,19 @@
                 href="https://mjer-iaido.github.io/ja/post/vancouver-dojo-japanfair2022/"
                 />
   </url><url>
-    <loc>https://mjer-iaido.github.io/ja/post/information-about-european-seminar2022/</loc>
+    <loc>https://mjer-iaido.github.io/ja/post/information-about-European-seminar2022/</loc>
     <lastmod>2022-04-10T13:14:43+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mjer-iaido.github.io/en/post/information-about-european-seminar2022/"
+                href="https://mjer-iaido.github.io/en/post/information-about-European-seminar2022/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/post/information-about-european-seminar2022/"
+                href="https://mjer-iaido.github.io/ja/post/information-about-European-seminar2022/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/tags/seminar/</loc>
@@ -382,7 +387,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mjer-iaido.github.io/ja/post/%E5%9B%BD%E9%9A%9B%E9%80%A3%E7%9B%9F-%E6%96%B0%E5%8A%A0%E7%9B%9F%E9%81%93%E5%A0%B4-%E5%8E%B3%E5%92%8C%E9%A4%A8alamedadojo/</loc>
+    <loc>https://mjer-iaido.github.io/ja/post/%E5%9B%BD%E9%9A%9B%E9%80%A3%E7%9B%9F-%E6%96%B0%E5%8A%A0%E7%9B%9F%E9%81%93%E5%A0%B4-%E5%8E%B3%E5%92%8C%E9%A4%A8AlamedaDojo/</loc>
     <lastmod>2020-11-23T21:48:39+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
