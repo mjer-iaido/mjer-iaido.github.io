@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mjer-iaido.github.io/ja/post/2%E6%9C%88%E5%BA%A6%E5%90%88%E5%90%8C%E7%A8%BD%E5%8F%A4%E4%BC%9A2024/</loc>
-    <lastmod>2024-02-25T12:28:02+09:00</lastmod>
+    <loc>https://mjer-iaido.github.io/ja/post/%E5%8F%B0%E6%B9%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC2024/</loc>
+    <lastmod>2024-04-13T10:46:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2024-02-25T12:28:02+09:00</lastmod>
+    <lastmod>2024-04-13T10:46:16+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -21,6 +21,11 @@
                 hreflang="ja"
                 href="https://mjer-iaido.github.io/ja/"
                 />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/ja/post/2%E6%9C%88%E5%BA%A6%E5%90%88%E5%90%8C%E7%A8%BD%E5%8F%A4%E4%BC%9A2024/</loc>
+    <lastmod>2024-02-25T12:28:02+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/post/%E8%AC%B9%E8%B3%80%E6%96%B0%E5%B9%B42024/</loc>
     <lastmod>2023-12-31T14:26:48+09:00</lastmod>
