@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/hikawa-shrine-embu2024/</loc>
+    <lastmod>2024-04-21T21:33:11+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2024-04-13T10:46:46+09:00</lastmod>
+    <lastmod>2024-04-21T21:33:11+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +20,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
+                />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/sakura-day-japan-fair-vancouver-iaido/</loc>
+    <lastmod>2024-04-21T21:16:20+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/sakura-day-japan-fair-vancouver-iaido/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/sakura-day-japan-fair-vancouver-iaido/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/en/post/taiwan-seminar2024/</loc>
