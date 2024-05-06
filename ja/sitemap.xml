@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/boston-iaido-japan-festival2024/</loc>
+    <lastmod>2024-05-06T23:51:38+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/boston-iaido-japan-festival2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/boston-iaido-japan-festival2024/"
+                />
+  </url><url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2024-04-21T21:33:22+09:00</lastmod>
+    <lastmod>2024-05-06T23:51:38+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
