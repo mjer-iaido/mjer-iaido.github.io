@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/North-America-seminar2024/</loc>
+    <lastmod>2024-06-16T10:56:19+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/North-America-seminar2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/North-America-seminar2024/"
+                />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/ja/</loc>
+    <lastmod>2024-06-16T10:56:19+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/"
+                />
+  </url><url>
     <loc>https://mjer-iaido.github.io/ja/post/boston-iaido-japan-festival2024/</loc>
     <lastmod>2024-05-06T23:51:38+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -15,21 +45,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://mjer-iaido.github.io/ja/post/boston-iaido-japan-festival2024/"
-                />
-  </url><url>
-    <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2024-05-06T23:51:38+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/post/%E6%B0%B7%E5%B7%9D%E7%A5%9E%E7%A4%BE%E5%A5%89%E7%B4%8D%E6%BC%94%E6%AD%A62024/</loc>
