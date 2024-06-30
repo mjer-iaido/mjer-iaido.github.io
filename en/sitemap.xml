@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/early-summer-seminar2024/</loc>
+    <lastmod>2024-06-30T15:03:12+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/early-summer-seminar2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/early-summer-seminar2024/"
+                />
+  </url><url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2024-06-16T10:55:55+09:00</lastmod>
+    <lastmod>2024-06-30T15:03:12+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
