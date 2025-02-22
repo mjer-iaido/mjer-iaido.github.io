@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2025-01-12T16:14:01+09:00</lastmod>
+    <lastmod>2025-02-22T18:39:51+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,11 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
                 />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/Tokyo-Winter-Seminar-2025/</loc>
+    <lastmod>2025-02-22T18:39:51+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mjer-iaido.github.io/en/post/WORLD-MJER-Iaido-Federation-Organizational-Structure-2025/</loc>
     <lastmod>2025-01-12T16:14:01+09:00</lastmod>
