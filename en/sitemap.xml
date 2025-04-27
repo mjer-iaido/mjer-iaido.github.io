@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/en/post/boston-iaido-at-japan-festival-boston-2025/</loc>
+    <lastmod>2025-04-27T20:38:17+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/boston-iaido-at-japan-festival-boston-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/boston-iaido-at-japan-festival-boston-2025/"
+                />
+  </url><url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2025-04-13T18:29:48+09:00</lastmod>
+    <lastmod>2025-04-27T20:38:17+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +31,26 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
                 />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/esaka-dojo-vancouver-at-sakura-days-japan-fair/</loc>
+    <lastmod>2025-04-27T20:21:34+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/esaka-dojo-vancouver-at-sakura-days-japan-fair/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/esaka-dojo-vancouver-at-sakura-days-japan-fair/"
+                />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/Hikawa-shrine-demonstration-2025/</loc>
+    <lastmod>2025-04-27T19:43:33+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mjer-iaido.github.io/en/post/registration-now-open-for-boston-seminar-2025/</loc>
     <lastmod>2025-04-13T18:29:48+09:00</lastmod>
