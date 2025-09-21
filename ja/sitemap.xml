@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/seminar-in-germany-2025/</loc>
+    <lastmod>2025-09-21T16:33:32+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/seminar-in-germany-2025/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/seminar-in-germany-2025/"
+                />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/ja/</loc>
+    <lastmod>2025-09-21T16:33:32+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/"
+                />
+  </url><url>
     <loc>https://mjer-iaido.github.io/ja/post/powell-street-festival-demonstration2025/</loc>
     <lastmod>2025-09-07T16:10:47+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -15,21 +45,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://mjer-iaido.github.io/ja/post/powell-street-festival-demonstration2025/"
-                />
-  </url><url>
-    <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2025-09-07T16:10:47+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/post/singapore-seminar2025/</loc>
