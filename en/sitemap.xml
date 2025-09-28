@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mjer-iaido.github.io/en/</loc>
-    <lastmod>2025-09-21T16:33:12+09:00</lastmod>
+    <lastmod>2025-09-28T22:53:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,11 @@
                 hreflang="en"
                 href="https://mjer-iaido.github.io/en/"
                 />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/en/post/information-about-the-11th-taikai/</loc>
+    <lastmod>2025-09-28T22:53:33+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mjer-iaido.github.io/en/post/seminar-in-germany-2025/</loc>
     <lastmod>2025-09-21T16:33:12+09:00</lastmod>
