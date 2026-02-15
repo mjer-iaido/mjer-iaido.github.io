@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mjer-iaido.github.io/ja/post/todo-kai-new-website/</loc>
+    <lastmod>2026-02-15T17:41:40+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/post/todo-kai-new-website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/post/todo-kai-new-website/"
+                />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/ja/</loc>
+    <lastmod>2026-02-15T17:41:40+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mjer-iaido.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://mjer-iaido.github.io/ja/"
+                />
+  </url><url>
     <loc>https://mjer-iaido.github.io/ja/tags/</loc>
     <lastmod>2026-01-02T14:02:48+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -15,21 +45,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://mjer-iaido.github.io/ja/tags/"
-                />
-  </url><url>
-    <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2026-01-02T14:02:48+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mjer-iaido.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://mjer-iaido.github.io/ja/"
                 />
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/tags/%E5%B1%85%E5%90%88%E9%81%93-%E8%AC%B9%E8%B3%80%E6%96%B0%E5%B9%B42026/</loc>
