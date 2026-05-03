@@ -2,13 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mjer-iaido.github.io/ja/post/%E5%8F%B0%E6%B9%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-2026/</loc>
-    <lastmod>2026-04-11T11:53:41+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://mjer-iaido.github.io/ja/</loc>
-    <lastmod>2026-04-11T11:53:41+09:00</lastmod>
+    <lastmod>2026-05-03T17:19:48+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -21,6 +16,16 @@
                 hreflang="ja"
                 href="https://mjer-iaido.github.io/ja/"
                 />
+  </url><url>
+    <loc>https://mjer-iaido.github.io/ja/post/%E6%AD%A6%E8%94%B5%E4%B8%80%E4%B9%8B%E5%AE%AE%E6%B0%B7%E5%B7%9D%E7%A5%9E%E7%A4%BE%E5%A5%89%E7%B4%8D%E6%BC%94%E6%AD%A6%E4%BC%9A2026/</loc>
+    <lastmod>2026-05-03T17:19:48+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://mjer-iaido.github.io/ja/post/%E5%8F%B0%E6%B9%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC-2026/</loc>
+    <lastmod>2026-04-11T11:53:41+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://mjer-iaido.github.io/ja/post/2026%E5%B9%B42%E6%9C%88%E5%BA%A6-%E5%90%88%E5%90%8C%E7%A8%BD%E5%8F%A4/</loc>
     <lastmod>2026-02-21T23:25:43+09:00</lastmod>
