@@ -157,18 +157,13 @@ if (!doNotTrack) {
          <aside class="fixed-lTK mw5-l right-0 f6 bl-l b--moon-gray pv4 pv0-ns ph4-l nested-list-reset nested-links nested-copy-line-height" >
            <p class="b">What's on this Page</p>
            <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#2023年-体制図">2023年　体制図</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul>
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
 </nav>
          </aside>
        </div>
@@ -191,31 +186,24 @@ if (!doNotTrack) {
         January 1, 2023
       </time>
       <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray">
-        
-
-<p>謹賀新年</p>
-
-<p>明けましておめでとうございます。<br />
+        <p>謹賀新年</p>
+<p>明けましておめでとうございます。<br>
 コロナ禍は未だ感染が終息しませんが、２０２３年は早くも海外講習の予定も組まれるなど前向きな年になって行きそうな気配を感じます。</p>
-
-<p>昨年12月4日に連盟の総会が開催されました。<br />
+<p>昨年12月4日に連盟の総会が開催されました。<br>
 今期は役員改選期に当り、次の新役員が改選されました。この新しい役員と共に、14期を更に発展させてまいりたいと思っております。</p>
-
-<h4 id="2023年-体制図">2023年　体制図</h4>
-
+<h4 id="2023年体制図">2023年　体制図</h4>
 <ul>
 <li>会長
-
 <ul>
 <li>小原憲一</li>
-</ul></li>
+</ul>
+</li>
 <li>代表理事
-
 <ul>
 <li>持麾秀一（新就任 事務局兼任）</li>
-</ul></li>
+</ul>
+</li>
 <li>理事
-
 <ul>
 <li>浅宮京子</li>
 <li>金田久人</li>
@@ -226,19 +214,17 @@ if (!doNotTrack) {
 <li>松本英昭（新任）</li>
 <li>ﾃﾞｨﾇｰﾝ･ﾀﾞﾆｴﾙ（新任）</li>
 <li>内園善信（新任）</li>
-</ul></li>
+</ul>
+</li>
 <li>監事
-
 <ul>
 <li>木村シヅヨ</li>
-<li>川上雅次（新任）
-<br /></li>
-</ul></li>
+<li>川上雅次（新任）</li>
 </ul>
-
+</li>
+</ul>
 <p>以上</p>
-
-<p>World MJER Iaido Federation<br />
+<p>World MJER Iaido Federation<br>
 © 正統正流無雙直傳英信流居合道国際連盟</p>
 
       </section>
@@ -264,8 +250,15 @@ if (!doNotTrack) {
   <div class="bg-light-gray pa3">
     <ul>
       <li class="list b mb3">
-        160 More Posts
+        161 More Posts
       </li>
+      
+        <li class="list f5 w-100 hover-bg-white nl1">
+          
+          <a href="https://mjer-iaido.github.io/ja/post/2026%E5%B9%B46%E6%9C%88%E5%BA%A6-%E5%90%88%E5%90%8C%E7%A8%BD%E5%8F%A4%E4%BC%9A/" class="link ph2 pv2 db black">
+            2026年6月度 合同稽古会
+          </a>
+        </li>
       
         <li class="list f5 w-100 hover-bg-white nl1">
           
@@ -1428,6 +1421,46 @@ if (!doNotTrack) {
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
+<script>
+(function () {
+  var host = window.location.hostname || '';
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
+    return;
+  }
+
+  var embeds = document.querySelectorAll('blockquote.instagram-media');
+  embeds.forEach(function (embed) {
+    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
+    if (!permalink) {
+      var link = embed.querySelector('a');
+      if (link) {
+        permalink = link.getAttribute('href') || '';
+      }
+    }
+
+    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
+
+    if (!match) {
+      return;
+    }
+
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('allowtransparency', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.display = 'block';
+    iframe.style.width = '100%';
+    iframe.style.maxWidth = '540px';
+    iframe.style.minHeight = '560px';
+    iframe.style.margin = '1rem auto';
+    iframe.style.border = '0';
+
+    embed.replaceWith(iframe);
+  });
+})();
+</script>
 
   </body>
 </html>

@@ -481,8 +481,7 @@ if (!doNotTrack) {
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       Dear members
 Information about The 6th Taikai.
-Date : November 23, 2017
-10am-5pm
+Date : November 23, 2017 10am-5pm
 Location : Tokyo Jitsugyo high school Kamata Ota Tokyo.
 Keiko schedule before The 6th Taikai at Esaka dojo Matsudo. Location : Matsudo Budo-kan at Matsudo sports park
 Saturday, November 4
@@ -693,8 +692,7 @@ Keiko    Awards ceremony   Congratulations!!
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       Dear members
 Information about The 6th Taikai.
-Date : November 23, 2017
-10am-5pm
+Date : November 23, 2017 10am-5pm
 Location : Tokyo Jitsugyo high school Kamata Ota Tokyo.
 Keiko schedule before The 6th Taikai at Esaka dojo Matsudo. Location : Matsudo Budo-kan at Matsudo sports park
 Saturday, November 4
@@ -756,9 +754,7 @@ Practice1 : 1pm -3pm
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Precepts of Master Kōno Hyakuren, 20 th Head of the Musō-jikiden Eishin-ryu School of Iaido
- 
-I sincerely hope that those who seek to learn the teachings of this school will maintain throughout their training a firm resolution to correctly transmit to later practitioners the forms of our school that former masters have handed down from ancient times to the present day, absolutely uncolored by personal philosophy and in no way altered.
+      Precepts of Master Kōno Hyakuren, 20 th Head of the Musō-jikiden Eishin-ryu School of Iaido 
     </div>
   </div>
 </div>
@@ -795,7 +791,7 @@ I sincerely hope that those who seek to learn the teachings of this school will 
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Singapore Genyokan (厳洋館) この投稿をInstagramで見る MJERS Genyokan 🇸🇬(@mjers_genyokan)がシェアした投稿 この投稿をInstagramで見る
+      Singapore Genyokan (厳洋館) World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟
     </div>
   </div>
 </div>
@@ -1325,6 +1321,46 @@ web team
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
+<script>
+(function () {
+  var host = window.location.hostname || '';
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
+    return;
+  }
+
+  var embeds = document.querySelectorAll('blockquote.instagram-media');
+  embeds.forEach(function (embed) {
+    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
+    if (!permalink) {
+      var link = embed.querySelector('a');
+      if (link) {
+        permalink = link.getAttribute('href') || '';
+      }
+    }
+
+    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
+
+    if (!match) {
+      return;
+    }
+
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('allowtransparency', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.display = 'block';
+    iframe.style.width = '100%';
+    iframe.style.maxWidth = '540px';
+    iframe.style.minHeight = '560px';
+    iframe.style.margin = '1rem auto';
+    iframe.style.border = '0';
+
+    embed.replaceWith(iframe);
+  });
+})();
+</script>
 
   </body>
 </html>

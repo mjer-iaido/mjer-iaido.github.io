@@ -223,6 +223,46 @@ if (!doNotTrack) {
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
+<script>
+(function () {
+  var host = window.location.hostname || '';
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
+    return;
+  }
+
+  var embeds = document.querySelectorAll('blockquote.instagram-media');
+  embeds.forEach(function (embed) {
+    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
+    if (!permalink) {
+      var link = embed.querySelector('a');
+      if (link) {
+        permalink = link.getAttribute('href') || '';
+      }
+    }
+
+    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
+
+    if (!match) {
+      return;
+    }
+
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('allowtransparency', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.display = 'block';
+    iframe.style.width = '100%';
+    iframe.style.maxWidth = '540px';
+    iframe.style.minHeight = '560px';
+    iframe.style.margin = '1rem auto';
+    iframe.style.border = '0';
+
+    embed.replaceWith(iframe);
+  });
+})();
+</script>
 
   </body>
 </html>

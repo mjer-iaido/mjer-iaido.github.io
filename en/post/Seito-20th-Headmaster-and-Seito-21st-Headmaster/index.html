@@ -31,7 +31,7 @@
 <meta itemprop="name" content="Seito 20th Headmaster and Seito 21st Headmaster">
 <meta itemprop="description" content="As mentioned above, for a long time, until the Seito 19th Headmaster, the style of Muso Jikiden Eishin-ryu was passed on down the generations without leaving Tosa Province, but at the start of the Showa Era (1926), the Osaka branch of the Dai Nippon Butoku Kai association, recognizing the true value and importance of iaido, advocated its practice along with kendo and judo. From then, the Headmaster was invited from Kochi Prefecture each year, and for around 20 years, he held training sessions that were a great success, with around 20,000 people taking part."><meta itemprop="datePublished" content="2017-09-30T23:16:07+09:00" />
 <meta itemprop="dateModified" content="2017-09-30T23:16:07+09:00" />
-<meta itemprop="wordCount" content="327"><meta itemprop="image" content="https://mjer-iaido.github.io/images/mjer-card.jpg"/>
+<meta itemprop="wordCount" content="326"><meta itemprop="image" content="https://mjer-iaido.github.io/images/mjer-card.jpg"/>
 <meta itemprop="keywords" content="mjer iaido," /><meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://mjer-iaido.github.io/images/mjer-card.jpg"/>
 
@@ -156,7 +156,7 @@ if (!doNotTrack) {
        <div class="bg-light-gray pa3">
          <aside class="fixed-lTK mw5-l right-0 f6 bl-l b--moon-gray pv4 pv0-ns ph4-l nested-list-reset nested-links nested-copy-line-height" >
            <p class="b">What's on this Page</p>
-           
+           <nav id="TableOfContents"></nav>
          </aside>
        </div>
      </section>
@@ -179,7 +179,7 @@ if (!doNotTrack) {
       </time>
       <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray">
         <p>As mentioned above, for a long time, until the Seito 19th Headmaster, the style of Muso Jikiden Eishin-ryu was passed on down the generations without leaving Tosa Province, but at the start of the Showa Era (1926), the Osaka branch of the Dai Nippon Butoku Kai association, recognizing the true value and importance of iaido, advocated its practice along with kendo and judo.
-From then, the Headmaster was invited from Kochi Prefecture each year, and for around 20 years, he held training sessions that were a great success, with around 20,000 people taking part. It is told they were unrivalled among martial arts associations across Japan.<br>
+From then, the Headmaster was invited from Kochi Prefecture each year, and for around 20 years, he held training sessions that were a great success, with around 20,000 people taking part. It is told they were unrivalled among martial arts associations across Japan.<!-- raw HTML omitted -->
 At that time, based on the profound discretion and firm conviction of the 19th Headmaster, it was resolved that the Seito 20th Headmaster would move to Osaka Prefecture, and on April 14, 1950, in the presence of the gods at Sumiyoshi Taisha Shrine in Osaka City, Hanshi Kono Minoru Hyakuren Sensei succeeded to the position of Seito 20th Headmaster, with the sacred sword being conferred upon him and a solemn succession ceremony being held. On May 21, 1974, due to the unexpected passing of the 20th Headmaster, his leading disciple, Hanshi Fukui Torao, was unanimously recommended by the school’s senior sensei as the next Headmaster. On the propitious date of February 11, 1975, in the presence of the gods at Inaba Shrine in Gifu Prefecture, he inherited the declaration of succession that passes on the title of Seito Headmaster from generation to generation as well as the original scroll and ceremonial sword of iaido, and a grand succession ceremony was held with solemn majesty.
 The reason that Muso Jikiden Eishin-ryu is said to be the fundamental iai style is that it has been passed down from one generation to the next without interruption in an unbroken line from the founder, as described above. There are now people all over Japan practicing this discipline in unparalleled numbers, due to this historical pedigree.</p>
 
@@ -233,8 +233,15 @@ The reason that Muso Jikiden Eishin-ryu is said to be the fundamental iai style 
   <div class="bg-light-gray pa3">
     <ul>
       <li class="list b mb3">
-        120 More Posts
+        121 More Posts
       </li>
+      
+        <li class="list f5 w-100 hover-bg-white nl1">
+          
+          <a href="https://mjer-iaido.github.io/en/post/early-summer-seminar-in-tokyo2026/" class="link ph2 pv2 db black">
+            Early Summer Seminar in Tokyo2026
+          </a>
+        </li>
       
         <li class="list f5 w-100 hover-bg-white nl1">
           
@@ -1117,6 +1124,46 @@ The reason that Muso Jikiden Eishin-ryu is said to be the fundamental iai style 
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
+<script>
+(function () {
+  var host = window.location.hostname || '';
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
+    return;
+  }
+
+  var embeds = document.querySelectorAll('blockquote.instagram-media');
+  embeds.forEach(function (embed) {
+    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
+    if (!permalink) {
+      var link = embed.querySelector('a');
+      if (link) {
+        permalink = link.getAttribute('href') || '';
+      }
+    }
+
+    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
+
+    if (!match) {
+      return;
+    }
+
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('allowtransparency', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.display = 'block';
+    iframe.style.width = '100%';
+    iframe.style.maxWidth = '540px';
+    iframe.style.minHeight = '560px';
+    iframe.style.margin = '1rem auto';
+    iframe.style.border = '0';
+
+    embed.replaceWith(iframe);
+  });
+})();
+</script>
 
   </body>
 </html>

@@ -157,21 +157,13 @@ if (!doNotTrack) {
          <aside class="fixed-lTK mw5-l right-0 f6 bl-l b--moon-gray pv4 pv0-ns ph4-l nested-list-reset nested-links nested-copy-line-height" >
            <p class="b">What's on this Page</p>
            <nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#president">President:</a></li>
-<li><a href="#representative-director">Representative Director:</a></li>
-<li><a href="#director">Director</a></li>
-<li><a href="#auditor">Auditor:</a></li>
-</ul></li>
-</ul></li>
-</ul></li>
-</ul>
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
 </nav>
          </aside>
        </div>
@@ -194,36 +186,24 @@ if (!doNotTrack) {
         January 12, 2025
       </time>
       <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray">
-        
-
-<figure><img src="https://lh3.googleusercontent.com/d/19fo346WOCijyt_Q9m5LuB1HKcTrrLDec"/>
+        <figure><img src="https://lh3.googleusercontent.com/d/19fo346WOCijyt_Q9m5LuB1HKcTrrLDec"/>
 </figure>
 
-
 <p>Happy New Year 2025</p>
-
-<p>&ldquo;Sei Bu Yō Shin&rdquo;<br />
+<p>&ldquo;Sei Bu Yō Shin&rdquo;<br>
 &ldquo;精　武　養　心&rdquo;</p>
-
 <p>The phrase for this year is from &ldquo;Iaidō Shintai&rdquo; by Master Kōno Hyakuren.</p>
-
-<p>At the 15th Regular General Meeting held on December 8th of last year, new officers for the 16th and 17th terms were appointed.<br />
+<p>At the 15th Regular General Meeting held on December 8th of last year, new officers for the 16th and 17th terms were appointed.<br>
 The new officers will work together as one towards the goal of &ldquo;Sei Bu Yō Shin,&rdquo; and we ask for your continued support.</p>
-
 <h4 id="president">President:</h4>
-
 <ul>
 <li>Kobara Kenichi</li>
 </ul>
-
 <h4 id="representative-director">Representative Director:</h4>
-
 <ul>
-<li>Mochizai Shuichi<br /></li>
+<li>Mochizai Shuichi</li>
 </ul>
-
 <h4 id="director">Director</h4>
-
 <ul>
 <li>Asamiya Kyoko</li>
 <li>Kaneda Hisahito</li>
@@ -237,16 +217,12 @@ The new officers will work together as one towards the goal of &ldquo;Sei Bu Yō
 <li>Kawakami Masatugu (Newly appointed)</li>
 <li>Takahashi Kazuyuki (Newly appointed)</li>
 </ul>
-
 <h4 id="auditor">Auditor:</h4>
-
 <ul>
 <li>Fujii Kazuo (Newly appointed)</li>
-<li>Ōhashi Tatumi (Newly appointed)<br />
-<br /></li>
+<li>Ōhashi Tatumi (Newly appointed)</li>
 </ul>
-
-<p>World MJER Iaido Federation<br />
+<p>World MJER Iaido Federation<br>
 © 正統正流無雙直傳英信流居合道国際連盟</p>
 
       </section>
@@ -272,8 +248,15 @@ The new officers will work together as one towards the goal of &ldquo;Sei Bu Yō
   <div class="bg-light-gray pa3">
     <ul>
       <li class="list b mb3">
-        120 More Posts
+        121 More Posts
       </li>
+      
+        <li class="list f5 w-100 hover-bg-white nl1">
+          
+          <a href="https://mjer-iaido.github.io/en/post/early-summer-seminar-in-tokyo2026/" class="link ph2 pv2 db black">
+            Early Summer Seminar in Tokyo2026
+          </a>
+        </li>
       
         <li class="list f5 w-100 hover-bg-white nl1">
           
@@ -1156,6 +1139,46 @@ The new officers will work together as one towards the goal of &ldquo;Sei Bu Yō
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
+<script>
+(function () {
+  var host = window.location.hostname || '';
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
+    return;
+  }
+
+  var embeds = document.querySelectorAll('blockquote.instagram-media');
+  embeds.forEach(function (embed) {
+    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
+    if (!permalink) {
+      var link = embed.querySelector('a');
+      if (link) {
+        permalink = link.getAttribute('href') || '';
+      }
+    }
+
+    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
+
+    if (!match) {
+      return;
+    }
+
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('allowtransparency', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.display = 'block';
+    iframe.style.width = '100%';
+    iframe.style.maxWidth = '540px';
+    iframe.style.minHeight = '560px';
+    iframe.style.margin = '1rem auto';
+    iframe.style.border = '0';
+
+    embed.replaceWith(iframe);
+  });
+})();
+</script>
 
   </body>
 </html>

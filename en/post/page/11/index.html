@@ -159,7 +159,7 @@ if (!doNotTrack) {
        <div class="bg-light-gray pa3">
          <aside class="fixed-lTK mw5-l right-0 f6 bl-l b--moon-gray pv4 pv0-ns ph4-l nested-list-reset nested-links nested-copy-line-height" >
            <p class="b">What's on this Page</p>
-           
+           <nav id="TableOfContents"></nav>
          </aside>
        </div>
      </section>
@@ -172,6 +172,25 @@ if (!doNotTrack) {
   </main>
     
     <section class="flex-ns flex-wrap justify-around mt5">
+      
+        <div class="relative w-100 w-30-l mb4 bg-white">
+            <div class="mb3 pa4 mid-gray overflow-hidden">
+    
+      <div class="f6">
+        December 30, 2018
+      </div>
+    
+    <h1 class="f3 near-black">
+      <a href="https://mjer-iaido.github.io/en/post/Happy-New-Year2019/" class="link black dim">
+        Happy New Year2019
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      謹 賀 新 年 Happy New Year!! 新年明けましておめでとうございます。 國際連盟もお陰様で第１０期目を迎えました。 会員諸剣士のご協力の賜物と役員一同感謝し、御礼申
+    </div>
+  </div>
+
+        </div>
       
         <div class="relative w-100 w-30-l mb4 bg-white">
             <div class="mb3 pa4 mid-gray overflow-hidden">
@@ -344,25 +363,6 @@ if (!doNotTrack) {
 
         </div>
       
-        <div class="relative w-100 w-30-l mb4 bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        February 25, 2018
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="https://mjer-iaido.github.io/en/post/Kamata-winter-seminar2018/" class="link black dim">
-        Kamata Winter Seminar2018
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      We held a World MJER Iaido Federation&rsquo;s winter seminar in February 25th, 2018 at Kamata, Tokyo. also, We appointed new instructors and assistant instructors. New instructors inaugration. New assistant instructors inaugration. Keiko Other pics here World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟
-    </div>
-  </div>
-
-        </div>
-      
     </section>
     
     <ul class="pagination pagination-default">
@@ -423,6 +423,46 @@ if (!doNotTrack) {
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
+<script>
+(function () {
+  var host = window.location.hostname || '';
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
+    return;
+  }
+
+  var embeds = document.querySelectorAll('blockquote.instagram-media');
+  embeds.forEach(function (embed) {
+    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
+    if (!permalink) {
+      var link = embed.querySelector('a');
+      if (link) {
+        permalink = link.getAttribute('href') || '';
+      }
+    }
+
+    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
+
+    if (!match) {
+      return;
+    }
+
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('allowtransparency', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.display = 'block';
+    iframe.style.width = '100%';
+    iframe.style.maxWidth = '540px';
+    iframe.style.minHeight = '560px';
+    iframe.style.margin = '1rem auto';
+    iframe.style.border = '0';
+
+    embed.replaceWith(iframe);
+  });
+})();
+</script>
 
   </body>
 </html>

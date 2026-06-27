@@ -153,7 +153,7 @@ if (!doNotTrack) {
        <div class="bg-light-gray pa3">
          <aside class="fixed-lTK mw5-l right-0 f6 bl-l b--moon-gray pv4 pv0-ns ph4-l nested-list-reset nested-links nested-copy-line-height" >
            <p class="b">What's on this Page</p>
-           
+           <nav id="TableOfContents"></nav>
          </aside>
        </div>
      </section>
@@ -166,6 +166,25 @@ if (!doNotTrack) {
   </main>
     
     <section class="flex-ns flex-wrap justify-around mt5">
+      
+        <div class="relative w-100 w-30-l mb4 bg-white">
+            <div class="mb3 pa4 mid-gray overflow-hidden">
+    
+      <div class="f6">
+        January 12, 2018
+      </div>
+    
+    <h1 class="f3 near-black">
+      <a href="https://mjer-iaido.github.io/ja/post/%E5%B1%85%E5%90%88%E9%81%93%E7%9C%9F%E8%AB%A6%E3%81%9D%E3%81%AE%EF%BC%92/" class="link black dim">
+        『居合道真諦』その２
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      こんにちは。引き続き、河野百錬先生著『居合道真諦』の紹介です。 三、打ち下ろしの事 打ち下ろしの時、刀を諸手に振冠って打下ろす時、更にﾓ一度両手
+    </div>
+  </div>
+
+        </div>
       
         <div class="relative w-100 w-30-l mb4 bg-white">
             <div class="mb3 pa4 mid-gray overflow-hidden">
@@ -313,7 +332,7 @@ if (!doNotTrack) {
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      各位 下記の日程で国際連盟・旭川セミナーを開催します。 平成29年10月7日 ・午後(13:00~16:00) 全日本刀法講習 平成29年10月8日 ・
+      各位下記の日程で国際連盟・旭川セミナーを開催します。平成29年10月7日・午後(13:00~16:00) 全日本刀法講習平成29年10月8日・
     </div>
   </div>
 
@@ -333,25 +352,6 @@ if (!doNotTrack) {
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       こんにちは。 これから、何回かに分けて、河野百錬先生 著『居合道真諦』の中の幾つかをご紹介して行こうと考えております。この本は、昭和３７年（１９
-    </div>
-  </div>
-
-        </div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        September 22, 2017
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="https://mjer-iaido.github.io/ja/post/%E6%9F%84%E3%81%AE%E9%95%B7%E3%81%95/" class="link black dim">
-        柄の長さ
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      こんにちは。 正統正流無雙直傳英信流の居合を学ぶ我々が使う刀の柄の長さについてお話します。 流派によって、それぞれ掟が違いますので、あくまで我々
     </div>
   </div>
 
@@ -417,6 +417,46 @@ if (!doNotTrack) {
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
+<script>
+(function () {
+  var host = window.location.hostname || '';
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
+    return;
+  }
+
+  var embeds = document.querySelectorAll('blockquote.instagram-media');
+  embeds.forEach(function (embed) {
+    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
+    if (!permalink) {
+      var link = embed.querySelector('a');
+      if (link) {
+        permalink = link.getAttribute('href') || '';
+      }
+    }
+
+    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
+
+    if (!match) {
+      return;
+    }
+
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('allowtransparency', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.display = 'block';
+    iframe.style.width = '100%';
+    iframe.style.maxWidth = '540px';
+    iframe.style.minHeight = '560px';
+    iframe.style.margin = '1rem auto';
+    iframe.style.border = '0';
+
+    embed.replaceWith(iframe);
+  });
+})();
+</script>
 
   </body>
 </html>

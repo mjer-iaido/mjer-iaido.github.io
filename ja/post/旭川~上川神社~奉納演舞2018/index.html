@@ -156,7 +156,7 @@ if (!doNotTrack) {
        <div class="bg-light-gray pa3">
          <aside class="fixed-lTK mw5-l right-0 f6 bl-l b--moon-gray pv4 pv0-ns ph4-l nested-list-reset nested-links nested-copy-line-height" >
            <p class="b">What's on this Page</p>
-           
+           <nav id="TableOfContents"></nav>
          </aside>
        </div>
      </section>
@@ -179,42 +179,40 @@ if (!doNotTrack) {
       </time>
       <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray">
         <p>2018年7月21日、北海道旭川・上川神社で奉納演舞が行われました。</p>
-
-<p>開始挨拶。<br />
+<p>開始挨拶。<br>
 <figure><img src="https://lh3.googleusercontent.com/d/1GL6oD-jhNaYQD4c92PTw4t1qEjHtWU_C"/>
 </figure>
 </p>
-
 <p>個々の演武</p>
-
 <ul>
-<li><p>羽賀剣士<br />
+<li>
+<p>羽賀剣士<br>
 <figure><img src="https://lh3.googleusercontent.com/d/1Aq3DPKFby0ugJ11ngdBW9ed7SoeRcaDq"/>
 </figure>
-</p></li>
-
-<li><p>渡邊剣士<br />
+</p>
+</li>
+<li>
+<p>渡邊剣士<br>
 <figure><img src="https://lh3.googleusercontent.com/d/1Q-Rd1tm09rHo3yGqenr8KwgFaZwbkb8D"/>
 </figure>
-</p></li>
-
-<li><p>吉岡剣士<br />
+</p>
+</li>
+<li>
+<p>吉岡剣士<br>
 <figure><img src="https://lh3.googleusercontent.com/d/14nfuiTecix4XAPzdFP9Ra7GEVICuFn6u"/>
 </figure>
-</p></li>
+</p>
+</li>
 </ul>
-
-<p>四人による演武<br />
+<p>四人による演武<br>
 <figure><img src="https://lh3.googleusercontent.com/d/12w_0c_nJAHEKiiky9oGJx6V-iI8h9ntV"/>
 </figure>
 </p>
-
-<p>納刀<br />
+<p>納刀<br>
 <figure><img src="https://lh3.googleusercontent.com/d/10gJvvK9f63ARsq4OoSN8HsWrPNlCKlLC"/>
 </figure>
 </p>
-
-<p>World MJER Iaido Federation<br />
+<p>World MJER Iaido Federation<br>
 © 正統正流無雙直傳英信流居合道国際連盟</p>
 
       </section>
@@ -240,8 +238,15 @@ if (!doNotTrack) {
   <div class="bg-light-gray pa3">
     <ul>
       <li class="list b mb3">
-        160 More Posts
+        161 More Posts
       </li>
+      
+        <li class="list f5 w-100 hover-bg-white nl1">
+          
+          <a href="https://mjer-iaido.github.io/ja/post/2026%E5%B9%B46%E6%9C%88%E5%BA%A6-%E5%90%88%E5%90%8C%E7%A8%BD%E5%8F%A4%E4%BC%9A/" class="link ph2 pv2 db black">
+            2026年6月度 合同稽古会
+          </a>
+        </li>
       
         <li class="list f5 w-100 hover-bg-white nl1">
           
@@ -1404,6 +1409,46 @@ if (!doNotTrack) {
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
+<script>
+(function () {
+  var host = window.location.hostname || '';
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
+    return;
+  }
+
+  var embeds = document.querySelectorAll('blockquote.instagram-media');
+  embeds.forEach(function (embed) {
+    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
+    if (!permalink) {
+      var link = embed.querySelector('a');
+      if (link) {
+        permalink = link.getAttribute('href') || '';
+      }
+    }
+
+    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
+
+    if (!match) {
+      return;
+    }
+
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('allowtransparency', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.display = 'block';
+    iframe.style.width = '100%';
+    iframe.style.maxWidth = '540px';
+    iframe.style.minHeight = '560px';
+    iframe.style.margin = '1rem auto';
+    iframe.style.border = '0';
+
+    embed.replaceWith(iframe);
+  });
+})();
+</script>
 
   </body>
 </html>

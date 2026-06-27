@@ -159,7 +159,7 @@ if (!doNotTrack) {
        <div class="bg-light-gray pa3">
          <aside class="fixed-lTK mw5-l right-0 f6 bl-l b--moon-gray pv4 pv0-ns ph4-l nested-list-reset nested-links nested-copy-line-height" >
            <p class="b">What's on this Page</p>
-           
+           <nav id="TableOfContents"></nav>
          </aside>
        </div>
      </section>
@@ -172,6 +172,25 @@ if (!doNotTrack) {
   </main>
     
     <section class="flex-ns flex-wrap justify-around mt5">
+      
+        <div class="relative w-100 w-30-l mb4 bg-white">
+            <div class="mb3 pa4 mid-gray overflow-hidden">
+    
+      <div class="f6">
+        May 14, 2020
+      </div>
+    
+    <h1 class="f3 near-black">
+      <a href="https://mjer-iaido.github.io/en/post/flashback-the-2nd-taikai/" class="link black dim">
+        Flashback the 2nd Taikai
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      Novemver 17th, 2013 We held &ldquo;The 2nd Taikai&rdquo; at Kamata, Tokyo. more pics. World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟
+    </div>
+  </div>
+
+        </div>
       
         <div class="relative w-100 w-30-l mb4 bg-white">
             <div class="mb3 pa4 mid-gray overflow-hidden">
@@ -344,25 +363,6 @@ if (!doNotTrack) {
 
         </div>
       
-        <div class="relative w-100 w-30-l mb4 bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        September 20, 2019
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="https://mjer-iaido.github.io/en/post/keiko-before-the-8th-taikai/" class="link black dim">
-        Keiko Before the 8th Taikai
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Dear members The schedule of KEIKO before the 8th Taikai at Esaka dojo Matsudo November 2nd, 2019 (sat) 5pm〜7pm November 3rd, 2019 (sun) 1pm〜3pm World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟
-    </div>
-  </div>
-
-        </div>
-      
     </section>
     
     <ul class="pagination pagination-default">
@@ -423,6 +423,46 @@ if (!doNotTrack) {
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
+<script>
+(function () {
+  var host = window.location.hostname || '';
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
+    return;
+  }
+
+  var embeds = document.querySelectorAll('blockquote.instagram-media');
+  embeds.forEach(function (embed) {
+    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
+    if (!permalink) {
+      var link = embed.querySelector('a');
+      if (link) {
+        permalink = link.getAttribute('href') || '';
+      }
+    }
+
+    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
+
+    if (!match) {
+      return;
+    }
+
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('allowtransparency', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.display = 'block';
+    iframe.style.width = '100%';
+    iframe.style.maxWidth = '540px';
+    iframe.style.minHeight = '560px';
+    iframe.style.margin = '1rem auto';
+    iframe.style.border = '0';
+
+    embed.replaceWith(iframe);
+  });
+})();
+</script>
 
   </body>
 </html>

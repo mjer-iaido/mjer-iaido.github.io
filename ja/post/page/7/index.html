@@ -153,7 +153,7 @@ if (!doNotTrack) {
        <div class="bg-light-gray pa3">
          <aside class="fixed-lTK mw5-l right-0 f6 bl-l b--moon-gray pv4 pv0-ns ph4-l nested-list-reset nested-links nested-copy-line-height" >
            <p class="b">What's on this Page</p>
-           
+           <nav id="TableOfContents"></nav>
          </aside>
        </div>
      </section>
@@ -171,6 +171,25 @@ if (!doNotTrack) {
             <div class="mb3 pa4 mid-gray overflow-hidden">
     
       <div class="f6">
+        September 11, 2022
+      </div>
+    
+    <h1 class="f3 near-black">
+      <a href="https://mjer-iaido.github.io/ja/post/%E3%83%A8%E3%83%BC%E3%83%AD%E3%83%94%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC2022/" class="link black dim">
+        ヨーロピアンセミナー2022
+      </a>
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      2022年9月1日（金）〜4日（日）にかけて、ドイツ連盟主催・国際連盟ヨーロピアンセミナーが開催されました。 ドイツ連盟サイトの記事はこちらを
+    </div>
+  </div>
+
+        </div>
+      
+        <div class="relative w-100 w-30-l mb4 bg-white">
+            <div class="mb3 pa4 mid-gray overflow-hidden">
+    
+      <div class="f6">
         September 10, 2022
       </div>
     
@@ -180,7 +199,7 @@ if (!doNotTrack) {
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Singapore Genyokan (厳洋館) この投稿をInstagramで見る MJERS Genyokan 🇸🇬(@mjers_genyokan)がシェアした投稿 この投稿をInstagramで見る
+      Singapore Genyokan (厳洋館) World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟
     </div>
   </div>
 
@@ -199,7 +218,7 @@ if (!doNotTrack) {
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Congratulations to everyone who passed their dan test!! この投稿をInstagramで見る Vancouver Iaido Club(@vancouveriaido)がシェアした投稿 この投稿をInstagram
+      Congratulations to everyone who passed their dan test!! World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟
     </div>
   </div>
 
@@ -218,7 +237,7 @@ if (!doNotTrack) {
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      Vancouver Eishin Ryu Iaido Club demo at 2022 Powell Street Festival. Website : http://www.vancouveriaido.com/ Instagram:https://www.instagram.com/vancouveriaido/ この投稿をInstagramで見る Vancouver Iaido Club(@vancouveriaido)がシェアした投稿 この投稿をIn
+      Vancouver Eishin Ryu Iaido Club demo at 2022 Powell Street Festival. Website : http://www.vancouveriaido.com/ Instagram:https://www.instagram.com/vancouveriaido/ World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟
     </div>
   </div>
 
@@ -332,26 +351,7 @@ if (!doNotTrack) {
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      この投稿をInstagramで見る Vancouver Iaido Club(@vancouveriaido)がシェアした投稿 この投稿をInstagramで見る Vancouver Iaido Clu
-    </div>
-  </div>
-
-        </div>
-      
-        <div class="relative w-100 w-30-l mb4 bg-white">
-            <div class="mb3 pa4 mid-gray overflow-hidden">
-    
-      <div class="f6">
-        April 10, 2022
-      </div>
-    
-    <h1 class="f3 near-black">
-      <a href="https://mjer-iaido.github.io/ja/post/information-about-European-seminar2022/" class="link black dim">
-        Information About European Seminar2022
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      各位。 国際連盟 ヨーロピアンセミナー2022について。 上記セミナー情報がドイツ居合道連合のwebsiteに掲載されました。 (German Muso Jikiden Eishin Ryu Association web site) ご確
+      World MJER Iaido Federation © 正統正流無雙直傳英信流居合道国際連盟
     </div>
   </div>
 
@@ -417,6 +417,46 @@ if (!doNotTrack) {
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
+<script>
+(function () {
+  var host = window.location.hostname || '';
+  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
+    return;
+  }
+
+  var embeds = document.querySelectorAll('blockquote.instagram-media');
+  embeds.forEach(function (embed) {
+    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
+    if (!permalink) {
+      var link = embed.querySelector('a');
+      if (link) {
+        permalink = link.getAttribute('href') || '';
+      }
+    }
+
+    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
+
+    if (!match) {
+      return;
+    }
+
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
+    iframe.setAttribute('loading', 'lazy');
+    iframe.setAttribute('allowtransparency', 'true');
+    iframe.setAttribute('frameborder', '0');
+    iframe.setAttribute('scrolling', 'no');
+    iframe.style.display = 'block';
+    iframe.style.width = '100%';
+    iframe.style.maxWidth = '540px';
+    iframe.style.minHeight = '560px';
+    iframe.style.margin = '1rem auto';
+    iframe.style.border = '0';
+
+    embed.replaceWith(iframe);
+  });
+})();
+</script>
 
   </body>
 </html>
