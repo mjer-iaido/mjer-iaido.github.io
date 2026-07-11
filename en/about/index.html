@@ -218,7 +218,7 @@ if (!doNotTrack) {
 </li>
 </ul>
 <h3 id="board-of-directors">Board of Directors:</h3>
-<!-- raw HTML omitted -->
+<!-- [Organization chart 2023](/en/post/a-happy-new-year2023/#an-organization-chart-2023)   -->
 <ul>
 <li>
 <p>Chairman : Kobara Kenichi</p>
@@ -229,7 +229,7 @@ if (!doNotTrack) {
 </ul>
 <ul>
 <li>Directors:
-<!-- raw HTML omitted -->
+<!-- + : Asamiya Kyoko   -->
 <ul>
 <li>: Kaneda Hisato</li>
 <li>: Sakuma Masahiko</li>
@@ -335,9 +335,9 @@ It has become the foundation of Esaka Seigen today.</li>
 <ul>
 <li>Published the book that &ldquo;An Introduction to MJER Iaido&rdquo;<br>
 For now you can buy it only at Japanese amazon.<br>
-<!-- raw HTML omitted --></li>
+<br></li>
 </ul>
-<!-- raw HTML omitted -->
+  <!-- e-book is [here](https://honto.jp/ebook/pd-series_B-MBJ-20597-123679102-001-001.html).   -->
 <ul>
 <li><a href="https://amzn.to/4eY9FEa">e-book volume1</a></li>
 <li><a href="https://amzn.to/3R55JZ4">e-book volume2</a></li>
@@ -548,46 +548,6 @@ Okuiai Tachiwaza no Bu (奥居合立業之部) contains the following techniques
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
-<script>
-(function () {
-  var host = window.location.hostname || '';
-  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
-    return;
-  }
-
-  var embeds = document.querySelectorAll('blockquote.instagram-media');
-  embeds.forEach(function (embed) {
-    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
-    if (!permalink) {
-      var link = embed.querySelector('a');
-      if (link) {
-        permalink = link.getAttribute('href') || '';
-      }
-    }
-
-    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
-
-    if (!match) {
-      return;
-    }
-
-    var iframe = document.createElement('iframe');
-    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
-    iframe.setAttribute('loading', 'lazy');
-    iframe.setAttribute('allowtransparency', 'true');
-    iframe.setAttribute('frameborder', '0');
-    iframe.setAttribute('scrolling', 'no');
-    iframe.style.display = 'block';
-    iframe.style.width = '100%';
-    iframe.style.maxWidth = '540px';
-    iframe.style.minHeight = '560px';
-    iframe.style.margin = '1rem auto';
-    iframe.style.border = '0';
-
-    embed.replaceWith(iframe);
-  });
-})();
-</script>
 
   </body>
 </html>

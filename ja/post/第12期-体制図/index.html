@@ -173,12 +173,12 @@ if (!doNotTrack) {
       </time>
       <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray">
         <p>各位<br>
-<!-- raw HTML omitted -->
+<br>
 11月22日に第11期の定例会員総会が開催され、第12期の新役員が改選、承認されました。<br>
 この陣容で厳しさを増すコロナ禍を乗り切ってまいります。<br>
-<!-- raw HTML omitted -->
+<br>
 何時に変わらぬご支援をお願い致します。<br>
-<!-- raw HTML omitted --></p>
+<br></p>
 <ul>
 <li>会長
 <ul>
@@ -222,7 +222,7 @@ if (!doNotTrack) {
 </ul>
 </li>
 </ul>
-<!-- raw HTML omitted -->
+<br>
 <p>World MJER Iaido Federation<br>
 © 正統正流無雙直傳英信流居合道国際連盟</p>
 
@@ -1434,46 +1434,6 @@ if (!doNotTrack) {
 </footer>
 
     <script src="https://mjer-iaido.github.io/dist/app.bundle.js" async></script>
-<script>
-(function () {
-  var host = window.location.hostname || '';
-  if (!/^(localhost|127\.0\.0\.1|\[::1\])$/.test(host)) {
-    return;
-  }
-
-  var embeds = document.querySelectorAll('blockquote.instagram-media');
-  embeds.forEach(function (embed) {
-    var permalink = embed.getAttribute('data-instgrm-permalink') || '';
-    if (!permalink) {
-      var link = embed.querySelector('a');
-      if (link) {
-        permalink = link.getAttribute('href') || '';
-      }
-    }
-
-    var match = permalink.match(/https:\/\/www\.instagram\.com\/p\/([^/?]+)/);
-
-    if (!match) {
-      return;
-    }
-
-    var iframe = document.createElement('iframe');
-    iframe.src = 'https://www.instagram.com/p/' + match[1] + '/embed/captioned/?cr=1&v=14';
-    iframe.setAttribute('loading', 'lazy');
-    iframe.setAttribute('allowtransparency', 'true');
-    iframe.setAttribute('frameborder', '0');
-    iframe.setAttribute('scrolling', 'no');
-    iframe.style.display = 'block';
-    iframe.style.width = '100%';
-    iframe.style.maxWidth = '540px';
-    iframe.style.minHeight = '560px';
-    iframe.style.margin = '1rem auto';
-    iframe.style.border = '0';
-
-    embed.replaceWith(iframe);
-  });
-})();
-</script>
 
   </body>
 </html>
